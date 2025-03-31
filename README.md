@@ -1552,6 +1552,7 @@ The key tools for building AI agents include benchmarks (to evalutae performance
 - [Gdoc-Downloader](https://github.com/uid/gdoc-downloader) - Downloads Google Docs as text files, which enables workflows such as simultaneous LaTeX editing
 - [Generativeaiexamples](https://github.com/NVIDIA/GenerativeAIExamples) - Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
 - [Ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
+- [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease.
 - [Git-Collaboration](https://github.com/jduckles/git-collaboration) - A repository to demonstrate collaboration workflows
 - [Git-Guppy](https://github.com/therealklanni/git-guppy) - Simple git-hook integration for your gulp workflows.
 - [Git-Octopus](https://github.com/lesfurets/git-octopus) - The continuous merge workflow
