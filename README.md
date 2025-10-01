@@ -395,7 +395,7 @@ I also recommend this [YouTube Playlist](https://www.youtube.com/playlist?list=P
 ## Building
 AI agents are autonomous systems designed to perform tasks, make decisions, and interact with their environments in ways that mimic human-like intelligence. 
 
-The key tools for building AI agents include benchmarks (to evalutae performance), datasets (to help fine-tune/train), frameworks (to build/deploy), LLM models (as an operating system for agents - e.g. GPT4), Prompt engineering (e.g. Chain-of-Thought), Tools (to achieve tasks), and Workflows (e.g. through tools like zapier). Each of these have their own section to make it easier to browse/find these components, and this is a rapidly growing area of interest in the community.
+The key tools for building AI agents include benchmarks (to evaluate performance), datasets (to help fine-tune/train), frameworks (to build/deploy), LLM models (as an operating system for agents - e.g. GPT4), Prompt engineering (e.g. Chain-of-Thought), Tools (to achieve tasks), and Workflows (e.g. through tools like zapier). Each of these have their own section to make it easier to browse/find these components, and this is a rapidly growing area of interest in the community.
 
 ### Benchmarks
 - [Agentbench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
