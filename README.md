@@ -874,6 +874,7 @@ The key tools for building AI agents include benchmarks (to evalutae performance
 - [IntelliAgent](https://github.com/aws-samples/Intelli-Agent) - Chatbot Portal with Agent: Streamlined Workflow for Building Agent-Based Applications.
 - [LangChain Agents](https://github.com/langchain-ai/langchain) - Build context-aware reasoning applications.
 - [Microsoft Magentic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) - A Generalist Multi-Agent System for Solving Complex Tasks.
+- [Neurolink](https://github.com/juspay/neurolink) - Production-ready framework for multi-agent orchestration with universal LLM provider support and advanced RAG capabilities.
 - [OpenAI Swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [Phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 
