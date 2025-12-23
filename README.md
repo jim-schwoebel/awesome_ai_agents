@@ -458,6 +458,8 @@ There are many repositories to get started learning AI agents (thanks to [awesom
 - [tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality [github](https://github.com/neonbjb/tortoise-tts) | [research paper](https://arxiv.org/abs/2305.07243) | [demo](https://huggingface.co/spaces/Manmay/tortoise-tts)
 - [uAgents by Fetch AI](https://github.com/fetchai/uAgents) - uAgents is a Python library by Fetch AI for creating autonomous AI agents with features like easy creation, blockchain network connectivity, and cryptographic security [github](https://github.com/fetchai/uAgents) | [github profile](https://github.com/fetchai)
 - [vimGPT](https://github.com/ishan0102/vimGPT) - vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency [github](https://github.com/ishan0102/vimGPT) | [demo](https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt) | [hackernews](https://news.ycombinator.com/item?id=38200308)
+- [Stakpak](https://github.com/stakpak/agent)** – Open-source DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.  
+[github](https://github.com/stakpak/agent) | [docs](https://stakpak.gitbook.io/docs) | [demo](https://stakpak.dev)
 
 ### Courses
 There are so many places to learn how to build AI agents! Here are some course and cookbooks to help you along your journey.
