@@ -1437,6 +1437,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Bubbln_Network-Automation](https://github.com/olasupo/bubbln_network-automation) - An AI-driven network automation tool
 - [Ceo-Agentic-Ai-Framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework) - An ultra-lightweight Agentic AI framework based on the ReAct paradigm, supporting mainstream LLMs and is stronger than Swarm.
 - [Chatbot](https://github.com/YidaHu/chatbot) - 基于LLM的聊天机器人，AI Agent的自主智能体，利用Function、Tools、Agent来实现LLM自主工作
+- [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis.
 - [Claude-Powered-Study-Assistant](https://github.com/g-hano/Claude-Powered-Study-Assistant) - A study assistant powered by Claude Opus. It provides various tools to assist with different tasks, such as researching,coding,note-takin…
 - [Claudesync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 - [Code-Interpreter-Api](https://github.com/leezhuuuuu/Code-Interpreter-Api) - Committed to being the best code interpreter in the world.
