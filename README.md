@@ -124,9 +124,10 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **AI Shopping Agents** - Assist shoppers with recommendations, searches, and purchasing.  
 - **AI Video Agents** - Automate video creation, editing, and personalization with AI.  
 - **Authentication Agents** - Secure identity verification and authentication processes with AI.  
-- **Coding Agent** - AI agents designed to write and debug code efficiently.
+- **Coding Agent** - AI agents designed to write and debug code efficiently (e.g. [OpenWork](https://openwork.software/)).
 - **Coding Assistant** - AI-powered tools to help developers with coding tasks and suggestions (e.g. [Cursor](https://www.cursor.com/)).
-- **Coding Library** - Reusable AI-driven code libraries to speed up development.  
+- **Coding Library** - Reusable AI-driven code libraries to speed up development.
+
 - **Content Creation** - AI tools for generating written, visual, and multimedia content.  
 - **Customer Service** - AI agents designed to handle customer support and interactions (e.g. Sierra).
 - **Data Analysis** - Analyze and interpret data using intelligent AI agents.  
