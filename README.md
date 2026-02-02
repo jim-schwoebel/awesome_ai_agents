@@ -802,6 +802,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Vitalhome-Chat](https://github.com/vital-ai/vitalhome-chat) - Ontology for Chat Agents deployed on Chat.ai
 - [Woodwork-Engine](https://github.com/willwoodward/woodwork-engine) - An AI Agent IaC tool that aims to make developing and deploying AI Agents easier.
 - [Xpertagent](https://github.com/rookie-littleblack/XpertAgent) - XpertAgent is an open-source platform for building and deploying AI applications. It combines intelligent workflow orchestration, knowled…
+- [Crewship](https://www.crewship.dev) - Crewship is a developer-first hosting platform for AI agents. Deploy multi-agent systems with a single command and get built-in orchestration, real-time monitoring, error handling, and cost tracking for production-grade agent deployment.
 
 ### Ethics
 - [A4-Artificial-Intelligence](https://github.com/AlivadTheImpala/A4-Artificial-Intelligence) - this is a repo regarding the ethics of AI.
