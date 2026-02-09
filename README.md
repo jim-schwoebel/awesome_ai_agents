@@ -1250,6 +1250,8 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Security-Ai-Agent-Brama](https://github.com/oborys/security-ai-agent-brama) - No description available
 - [Sim-Security-Data](https://github.com/Sim-Security/Sim-Security-Data) - Where I collect and process data for AI agents
 - [Web_Scrape_Agent_Ai](https://github.com/rxslice/Web_Scrape_Agent_AI) - Enterprise-Quality Autonomous Agent complete with relevant tools, master prompt, additional optional AI services, API compatible, basic s…
+- [Agent-Os](https://github.com/imran-siddique/agent-os) - A kernel architecture for governing autonomous AI agents with deterministic policy enforcement. POSIX-inspired primitives, framework integrations (LangChain, CrewAI, AutoGen), and MCP server for Claude Desktop.
+- [AgentMesh](https://github.com/imran-siddique/agent-mesh) - Trust layer for multi-agent systems with agent identity, trust scoring, delegation chains, and compliance automation (EU AI Act, SOC2, HIPAA, GDPR).
 
 ### Testing
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. [github](https://github.com/EvoAgentX/EvoAgentX)
