@@ -502,7 +502,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench - Benchmarking Code Generation Towards AGI
 - [Bolaa](https://github.com/JimSalesforce/BOLAA) - benchmarking and orchestrating LLM-augmented Agents
 - [Chat-Agent-Evalution](https://github.com/khuzaimakt/Chat-Agent-Evalution) - Evaluating the LLM Chat Agent on multiple evaluation benchmarks.
-- [Chitin](https://chitin.id) - On-chain soul identity, certificates, and governance for AI agents on Base L2. Issues Soulbound Tokens as verifiable birth certificates with ERC-8004 agent passports, W3C DID resolution, and MCP server integration. [website](https://chitin.id) | [npm](https://www.npmjs.com/package/chitin-mcp-server) | [docs](https://chitin.id/docs)
+- [Chitin](https://chitin.id) - On-chain soul identity, certificates, and governance for AI agents on Base L2. Issues Soulbound Tokens as verifiable birth certificates with ERC-8004 agent passports, W3C DID resolution, and MCP server integration. [website](https://chitin.id) | [npm](https://www.npmjs.com/package/chitin-mcp-server) | [docs](https://chitin.id/docs) | [github](https://github.com/Tiida-Tech/chitin-contracts)
 - [Comfybench](https://github.com/xxyQwQ/ComfyBench) - Implementation for the paper "ComfyBench - Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems".
 - [Debatellm](https://github.com/instadeepai/DebateLLM) - Benchmarking Multi-Agent Debate between Language Models for Truthfulness in Q&A.
 - [Dinersim](https://github.com/numbmelon/DinerSim) - DinerSim - A Restaurant Simulation Benchmark for LLM-Based Multi-Agent Cooperation
