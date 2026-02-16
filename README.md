@@ -208,6 +208,7 @@ There are many repositories to get started learning AI agents (thanks to [awesom
 - [Nous](https://github.com/TrafficGuard/nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more. [github](https://github.com/TrafficGuard/nous)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More. (formerly OpenDevin), a platform for software development agents powered by AI. [github](https://github.com/All-Hands-AI/OpenHands)
 - [Plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks. [github](https://github.com/plandex-ai/plandex)
+- [pm-skills](https://github.com/product-on-purpose/pm-skills) - An open-source library of 24 product management agent skills spanning the full product lifecycle, built on the agentskills.io specification. [github](https://github.com/product-on-purpose/pm-skills)
 - [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI) - A small AGI experiment to generate a Python app given what app the user wants to build. [github](https://github.com/chakkaradeep/pyCodeAGI)
 - [RepoAgent](https://github.com/OpenBMB/RepoAgent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly. [github](https://github.com/OpenBMB/RepoAgent)
 - [SWE Agent](https://github.com/princeton-nlp/swe-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. [github](https://github.com/princeton-nlp/swe-agent)
