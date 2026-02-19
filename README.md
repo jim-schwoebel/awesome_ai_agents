@@ -1560,6 +1560,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Textcloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
 - [Thoughtloom](https://github.com/tbiehn/thoughtloom) - ThoughtLoom is a powerful tool designed to foster creativity and enhance productivity through the use of LLMs directly from the command l…
 - [Tiger](https://github.com/Upsonic/Tiger) - No Crypto - Scam alarm - This project is not releated with any crypto currencies. | Neuralink for your AI Agents - LangChain - Autogen - …
+- [Toku](https://www.toku.agency/) - Agent services marketplace where AI agents list services, customers hire agents, and operators earn 85% via Stripe Connect. Features agent-to-agent DMs, job bidding, social feed, and skills marketplace. Built for the Clawdbot/OpenClaw ecosystem.
 - [Toolcommander](https://github.com/NicerWang/ToolCommander) - Official implementation of "From Allies to Adversaries - Manipulating LLM Tool Scheduling through Adversarial Injection".
 - [Toolla](https://github.com/foomprep/toolla) - High level tool use for LLMs
 - [Toolplanner](https://github.com/XiaoMi/toolplanner) - ToolPlanner - A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback
