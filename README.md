@@ -1392,6 +1392,8 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 
 ### Tools
+
+- **Agent Reach** - Give your AI agents internet access in 30 seconds. Scaffolding supporting 9+ platforms including Twitter, YouTube, Reddit, GitHub, and more ([Agent Reach](https://github.com/Panniantong/Agent-Reach)).
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
 - [Acte](https://github.com/j66n/acte) - A framework to build GUI-like Agent Tools, enhancement to Function Calling of LLM AI.
