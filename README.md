@@ -1450,6 +1450,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Deobfuscate-Android-App](https://github.com/In3tinct/deobfuscate-android-app) - LLM tool to find any potential vulnerabilities and deobfuscate android app code.
 - [Dingo](https://github.com/DataEval/dingo) - Dingo - A Comprehensive Data Quality Evaluation Tool
 - [Discovai-Crawl](https://github.com/DiscovAI/DiscovAI-crawl) - 🕷️ DiscovAI Crawl API(🚧 Work in Progress 🚧) - A powerful web scraping solution for AI tools and vector databases. Extract clean HTML, gene…
+- [Discourse-Openclaw](https://github.com/pranciskus/discourse-openclaw) - An OpenClaw plugin for Discourse forum integration that provides AI agents with 12 tools (9 read + 3 write) for interacting with any Discourse forum.
 - [Docgenie](https://github.com/we-festify/docgenie) - Docgenie is a command-line tool that leverages the power of large language models (LLMs) to automatically generate comprehensive document…
 - [Draft](https://github.com/quchangle1/DRAFT) - The implementation for the paper - From Exploration to Mastery - Enabling LLMs to Master Tools via Self-Driven Interactions.
 - [Ds-Llm-Webui](https://github.com/DocShotgun/ds-llm-webui) - A simple tool-use assistant for local LLMs powered by TabbyAPI
