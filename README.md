@@ -74,6 +74,7 @@ This is a fully virtual event for 2025. In-person format coming in future years.
 ---
 
 ## Table of Contents
+- [anchorbrowser/AnchorBrowser-SDK-Typescript](https://github.com/anchorbrowser/AnchorBrowser-SDK-Typescript) - Cloud browser platform for AI agents that provides managed Chromium instances accessible via WebSocket/CDP. Includes built-in stealth, CAPTCHA solving, residential proxy rotation, MCP server support, and handles SSO/MFA authentication.
 - [Using Agents](#using)
   - [Applications](#applications)
 - [Learning Agents](#learning)
