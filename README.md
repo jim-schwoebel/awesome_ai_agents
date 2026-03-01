@@ -20,6 +20,7 @@ Here are some ways you can use this repository:
 - **Explore** - Browse through the different sections to find tools, resources, and projects that match your interests and needs (e.g. to use, learn, or build agents).
 - **Contribute** - Share your own projects, tools, or resources related to AI agents and contribute to the growing body of knowledge in this field.
 - **Stay Updated** - Keep an eye on the latest developments and discussions about AI agents. Join the community to stay ahead of the curve.
+- [agentwallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
 
 Dive in, learn, collaborate, and build the next generation of AI agents.
 
