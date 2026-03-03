@@ -1395,6 +1395,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
 - [Acte](https://github.com/j66n/acte) - A framework to build GUI-like Agent Tools, enhancement to Function Calling of LLM AI.
+- [Agent-Gateway](https://github.com/OzorOwn/agent-gateway) - Unified API gateway providing 39 production-ready services for AI agents under one Bearer token — wallets, code execution, scheduling, memory, DeFi, LLM routing, and more [github](https://github.com/OzorOwn/agent-gateway) | [website](https://agent-gateway-kappa.vercel.app) | [docs](https://api-catalog-three.vercel.app/guides/getting-started)
 - [Agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260…
 - [Agentgpt-Llm-Tools](https://github.com/GautamSharda/AgentGPT-LLM-Tools) - AgentGPT allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable
 - [Agentools](https://github.com/JoongWonSeo/agentools) - Essentials for LLM-based assistants and agents using OpenAI and function tools
