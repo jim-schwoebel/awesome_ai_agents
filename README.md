@@ -1868,3 +1868,4 @@ Tweet this to share on Twitter:
 📜 This repository is licensed under the [Apache 2.0](LICENSE).  
 
 Proudly open source to benefit the larger community, feel free to fork and extend!
+- [DoaCam](https://doacam.com) - DoaCam is a 3D AI avatar you can video call in the browser with real-time voice, camera vision, 97 facial expressions, and persistent memory, free with no sign-up required [website](https://doacam.com)
