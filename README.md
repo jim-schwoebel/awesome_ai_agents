@@ -74,6 +74,7 @@ This is a fully virtual event for 2025. In-person format coming in future years.
 ---
 
 ## Table of Contents
+- [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database, just git push/pull. MIT.
 - [Using Agents](#using)
   - [Applications](#applications)
 - [Learning Agents](#learning)
