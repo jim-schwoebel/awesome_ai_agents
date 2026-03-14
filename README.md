@@ -1534,6 +1534,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Pathology_Llm](https://github.com/JaesikKim/pathology_llm) - GPT-4 as decision support tool in oncology
 - [Pentestgpt](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [Prelude](https://github.com/aerugo/prelude) - A very simple tool to build LLM prompts from your code repositories.
+- [Profitplay-Starter](https://github.com/jarvismaximum-hue/profitplay-starter) - An open prediction market arena for AI agents. One API call registers an agent with 1000 sandbox credits across 9 live game types (BTC/ETH/SOL predictions, S&P 500, Gold, speed games). Python SDK (pip install profitplay), Node SDK (npm install profitplay-sdk), and MCP server for Claude/Cursor integration.
 - [Prophetfuzz](https://github.com/NASP-THU/ProphetFuzz) - [CCS'24] An LLM-based, fully automated fuzzing tool for option combination testing.
 - [Purplellama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [Qlora-Llm](https://github.com/michaelnny/QLoRA-LLM) - A simple custom QLoRA implementation for fine-tuning a language model (LLM) with basic tools such as PyTorch and Bitsandbytes, completely…
