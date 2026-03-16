@@ -992,6 +992,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 - [Portia AI](https://github.com/portiaAI/portia-sdk-python/) - Portia is a new open source agentic Python framework designed for creating reliable agents in production. [github](https://github.com/portiaAI/portia-sdk-python)
 - [Strands Agents SDK](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code. [github](https://github.com/strands-agents/sdk-python)
+- [TITAN](https://github.com/Djtony707/TITAN) - Open-source autonomous AI agent framework with 149 tools, 34 LLM providers, P2P mesh networking, WebRTC voice, and React dashboard. TypeScript, self-hosted, MIT licensed. [github](https://github.com/Djtony707/TITAN) | [npm](https://www.npmjs.com/package/titan-agent)
 - [Upsonic](https://github.com/upsonic/upsonic) - Reliable agent framework that supports MCP. [github](https://github.com/upsonic/upsonic)
 - [Vectara-agentic](https://github.com/vectara/py-vectara-agentic) - Vectara-agentic is a framework for creating AI Assistants and agents using Vectara. [github](https://github.com/vectara/py-vectara-agentic)
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. [github](https://github.com/voltagent/voltagent)
