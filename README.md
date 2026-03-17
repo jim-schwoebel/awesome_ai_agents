@@ -118,6 +118,7 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **AI Agent Memory** - Enable agents to retain context and learn over time for improved interactions.  
 - **AI Agents Frameworks** - Frameworks to simplify the development of robust AI agent systems.  
 - **AI Agents Platform** - Platforms offering end-to-end solutions for creating and deploying AI agents.  
+  - [Arch Tools](https://archtools.dev) - 61 production AI tools where agents pay per-call with USDC via x402 protocol. MCP-compatible. Tools include AI generation, web scraping, crypto data, sentiment analysis, OCR, TTS, and more.
 - **AI Avatar** - Personalized digital representations powered by AI for interactions.  
 - **AI Docs Agents** - Agents specialized in document processing and content generation.  
 - **AI Security** - Intelligent systems to enhance security through threat detection and prevention.  
