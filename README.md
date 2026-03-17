@@ -1362,6 +1362,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Raven-Test-Ai](https://github.com/dhurng/Raven-Test-AI) - An AI agent that can solve Raven Tests, visual iq tests
 - [Reverse_Turing_Test](https://github.com/nicomanzonelli/reverse_turing_test) - Can you outsmart the LLM-based AI agents?
 - [Ricai_Unittestgen_Tool](https://github.com/AutoDevTestAgent/ricai_unittestgen_tool) - (lablab.ai Autonomous Agents 2023 hackathon) RicAI unit test generation tool
+- [Rierino](https://rierino.com) - Low-code platform for building agentic backend logic and microservice orchestration
 - [Rlerewolf](https://github.com/GeorgeVelikov/RLereWolf) - A framework for playing Werewolf & developing and testing AI agents for Werewolf.
 - [Rpm-Ai-Agent](https://github.com/teldridge11/RPM-AI-Agent) - AI Agent for solving Raven's Progressive Matrices as a test of general intelligence
 - [Rpm-Ai-Agent](https://github.com/horkays/RPM-AI-Agent) - An AI agent designed to solve the Raven's Progressive Matrices human intelligence tests, written in Python
