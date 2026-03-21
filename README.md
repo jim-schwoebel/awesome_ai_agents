@@ -1213,6 +1213,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Agent-Repoguardian](https://github.com/flexigpt/agent-repoguardian) - An AI agent that does security scans and vulnerability analysis of code
 - [Agentic_Security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit
 - [Agentictrust](https://github.com/lab101-ai/agentictrust) - Observability, DevTool and Security Platfrom for AI Agents
+- [Agentstamp](https://github.com/vinaybhosle/agentstamp) - x402-powered trust platform for AI agents — identity certification, public registry, reputation scoring (0-100), cross-protocol passports, and 14 MCP tools. USDC micropayments on Base + Solana.
 - [Agentos](https://github.com/The-Swarm-Corporation/AgentOS) - AgentOS implements a comprehensive security architecture leveraging containerization, orchestration, and multi-layer isolation to ensure …
 - [Agriaid](https://github.com/shamspias/AgriAid) - AgriAid is an AI-powered tool for farmers & agricultural agents in Bangladesh, offering plant disease forecasting & identification. Using…
 - [Ai-Agent](https://github.com/ZielBox/ai-agent) - Performs various AI enabled actions and specialized in security management.
