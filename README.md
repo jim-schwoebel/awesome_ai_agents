@@ -478,6 +478,8 @@ There are so many places to learn how to build AI agents! Here are some course a
 - [Multi-Agent system building with CrewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai)
 - [Serverless Agentic workflows with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/)
 
+- [OpenClaw for CEOs: Run AI Agents That Actually Work](https://openclawapp.netlify.app/course/) - 10-module course teaching non-technical entrepreneurs to install, secure, and run OpenClaw AI agents 24/7. Covers security setup, token cost optimisation, cron scheduling, multi-agent orchestration, and phone control. Pay £2-15/month instead of £200+/month for SaaS. (£97)
+
 I also recommend this [YouTube Playlist](https://www.youtube.com/playlist?list=PLnH2pfPCPZsKhlUSP39nRzLkfvi_FhDdD), which has a range of tutorials.
 
 #### Cookbooks
