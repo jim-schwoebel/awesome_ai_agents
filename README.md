@@ -1439,6 +1439,8 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Chatbot](https://github.com/YidaHu/chatbot) - 基于LLM的聊天机器人，AI Agent的自主智能体，利用Function、Tools、Agent来实现LLM自主工作
 - [Claude-Powered-Study-Assistant](https://github.com/g-hano/Claude-Powered-Study-Assistant) - A study assistant powered by Claude Opus. It provides various tools to assist with different tasks, such as researching,coding,note-takin…
 - [Claudesync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
+- [ClawSec](https://clawsec.com/) - Security audit platform for AI agent skills and MCP servers, providing vulnerability scanning, risk scoring, and supply chain verification for agent tool ecosystems.
+- [ClawSearch](https://clawsearch.com/) - Safe discovery engine for AI agent skills with built-in security audits, enabling developers to find and verify MCP servers and agent tools before integration.
 - [Code-Interpreter-Api](https://github.com/leezhuuuuu/Code-Interpreter-Api) - Committed to being the best code interpreter in the world.
 - [Comfyui-Llm-Tools](https://github.com/pridkett/ComfyUI-llm-tools) - Helpful nodes for working with LLMs inside of ComfyUI
 - [Companion](https://github.com/rapmd73/Companion) - An AI-powered Discord bot blending playful conversation with smart moderation tools, adding charm and order to your server.
