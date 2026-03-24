@@ -1812,6 +1812,11 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 ---
 
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## Contributing
 
 💡 Contributions are welcome!  
