@@ -1393,6 +1393,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 ### Tools
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
 - [Acte](https://github.com/j66n/acte) - A framework to build GUI-like Agent Tools, enhancement to Function Calling of LLM AI.
 - [Agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260…
