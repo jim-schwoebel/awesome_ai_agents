@@ -975,6 +975,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Botpress](https://github.com/botpress/botpress) - The building blocks for building chatbots. [github](https://github.com/botpress/botpress)
 - [Crew.AI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker) - P2P agent collaboration where agents call each other's skills without seeing implementation code. E2E encrypted over XMTP, 4-tier revocable trust, async delegation, skill versioning. Zero dependencies. [github](https://github.com/ZiwayZhao/agent-coworker) | [website](https://ziwayzhao.github.io/agent-coworker/)
 - [Dust](https://github.com/dust-tt/dust) - Design and Deploy Large Language Model Apps. [github](https://github.com/dust-tt/dust)
 - [Giselle](https://giselles.ai/) - Giselle is an open source AI App Builder for agentic workflows. Giselle enables seamless human-AI collaboration, helping to automate complex tasks and streamline workflows efficiently [website](https://giselles.ai/)
 - [IBM Bee](https://github.com/i-am-bee/bee-agent-framework) - The framework for building scalable agentic applications.
