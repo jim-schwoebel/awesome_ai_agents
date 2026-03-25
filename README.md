@@ -1808,6 +1808,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Youtrack-Workflows](https://github.com/JetBrains/youtrack-workflows) - YouTrack Custom Workflow Repository
 - [Zapier](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
 - [Zorow](https://github.com/openmainframeproject/zorow) - z/OS Open Repository of Workflows (zorow), is an open source community dedicated to contributing and collaborating on z/OSMF workflows. 
+- [SkillFlow](https://github.com/rafsilva85/skillflow-mcp-server) - Open marketplace for AI agent skills. Discover 500+ MCP servers and automation tools, compare capabilities, and deploy to your AI stack. Free and open source.
 
 
 ---
