@@ -1839,6 +1839,7 @@ Your star helps others find this valuable resource! By starring, you:
 - Support the AI agents community.  
 - Gain access to the freshest content updated **every 24 hours**.  
 - Inspire others to dive into the world of intelligent systems.  
+| [SkillFlow](https://skillflow.builders) | Open marketplace for AI agent skills and MCP servers | Free/Freemium | Search 500+ skills with trust metrics |
 
 Let’s shape the future of AI together! 🌟 
 
