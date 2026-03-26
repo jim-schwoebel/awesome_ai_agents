@@ -115,6 +115,7 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **Ads AI Agents** - Automate and optimize ad campaigns using intelligent AI agents.  
 - **Agentic IDE** - Integrated Development Environments tailored for building and managing AI agents.  
 - **AI Agent Management Platform** - Centralized tools for deploying, monitoring, and managing AI agents.  
+- [Prefactor](https://prefactor.tech/) - AI agent runtime control plane with real-time observability, policy enforcement, and cost attribution.
 - **AI Agent Memory** - Enable agents to retain context and learn over time for improved interactions.  
 - **AI Agents Frameworks** - Frameworks to simplify the development of robust AI agent systems.  
 - **AI Agents Platform** - Platforms offering end-to-end solutions for creating and deploying AI agents.  
