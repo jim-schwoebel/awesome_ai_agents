@@ -1211,6 +1211,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Prompt-Engineering-Guide-Cn](https://github.com/prompting-work/Prompt-Engineering-Guide-Cn) - 关于提示工程的技术文章汇总和翻译
 - [Prompt-Engineering-Guide-Zh-Cn](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN) - 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
 - [Prompt-Engineering-Holy-Grail](https://github.com/zacfrulloni/Prompt-Engineering-Holy-Grail) - # Prompt Engineering Hub ⭐️ If you find this helpful, give it a star to show your support! This repository is a one-stop resource for prompt
+- [agent101](https://agent101.ventify.ai) - Open directory of 500+ tools, APIs, and services for AI agents. 15 categories, structured metadata, MCP server.
 - [Prompt-Engineering-Mastery](https://github.com/nerority/Prompt-Engineering-Mastery) - many prompt engineering resources
 - [Prompt-Engineering-Note](https://github.com/isLinXu/prompt-engineering-note) - 🔥🔔prompt-engineering-note🔔🔥
 - [Prompt-Engineering-Notebook](https://github.com/madroidmaq/prompt-engineering-notebook) - ChatGPT Prompt Engineering for Developers Jupyter Notebook. 《给开发者的 ChatGPT 提示工程》学习笔记。 #ChatGPT #Prompt #Prompts #Prompt-Engineering #Prompts
