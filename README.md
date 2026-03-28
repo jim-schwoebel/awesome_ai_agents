@@ -1445,6 +1445,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Awesome-Rust-Llm](https://github.com/jondot/awesome-rust-llm) - 🦀 A curated list of Rust tools, libraries, and frameworks for working with LLMs, GPT, AI
 - [Awesome_Ai_For_Programmers](https://github.com/rodion-m/awesome_ai_for_programmers) - Сборник AI-инструментов, кейсов и всяких других полезностей для программистов
 - [Awesomellmapps](https://github.com/Abhishek-yadv/AwesomeLLMApps) - A curated collection of awesome applications and tools that utilize large language models (LLMs) with retrieval-augmented generation (RAG…
+- [Bgpt-Mcp](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data. SSE + Streamable HTTP. 50 free searches.
 - [Blockoli](https://github.com/getAsterisk/blockoli) - Blockoli is a high-performance tool for code indexing, embedding generation and semantic search tool for use with LLMs.
 - [Blueprints](https://github.com/sublayerapp/blueprints) - Blueprints is an open-source tool that integrates with your text editor to help you generate code with an LLM based on patterns you alrea…
 - [Botsh](https://github.com/jamsocket/botsh) - An LLM-based agent that will install the tools it needs.
