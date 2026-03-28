@@ -1483,6 +1483,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis.
 - [Claude-Powered-Study-Assistant](https://github.com/g-hano/Claude-Powered-Study-Assistant) - A study assistant powered by Claude Opus. It provides various tools to assist with different tasks, such as researching,coding,note-takin…
 - [Claudesync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
+- [Claude-Debug](https://github.com/krabat-l/claude-debug) - Phase-gated debugging plugin for AI coding agents. Enforces reproduce, isolate, root cause, fix, verify using hooks that prevent code edits until root cause is confirmed. Works with Claude Code, Cursor, and Codex. [github](https://github.com/krabat-l/claude-debug)
 - [Code-Interpreter-Api](https://github.com/leezhuuuuu/Code-Interpreter-Api) - Committed to being the best code interpreter in the world.
 - [Comfyui-Llm-Tools](https://github.com/pridkett/ComfyUI-llm-tools) - Helpful nodes for working with LLMs inside of ComfyUI
 - [Companion](https://github.com/rapmd73/Companion) - An AI-powered Discord bot blending playful conversation with smart moderation tools, adding charm and order to your server.
