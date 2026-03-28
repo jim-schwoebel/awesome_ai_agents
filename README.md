@@ -1256,6 +1256,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Linux-Security-Agent](https://github.com/microaisecurity/linux-security-agent) - Micro AI security agent
 - [Llm_Agents_Security](https://github.com/johnny22245/llm_agents_security) - This LLM agents deals with establishing AI security and safety.
 - [Minotaur_Impossible_Gpt_Security_Challenge](https://github.com/CyberAlbSecOP/MINOTAUR_Impossible_GPT_Security_Challenge) - MINOTAUR: The STRONGEST Secure Prompt EVER! Prompt Security Challenge, Impossible GPT Security, Prompts Cybersecurity, Prompting Vulnerab…
+- [OneCLI](https://github.com/onecli/onecli) - Open-source credential vault for AI agents. A Rust HTTP gateway intercepts agent requests and injects API credentials transparently, so agents never handle raw keys.
 - [Moa-Groq-Langchain-Securityspecialist](https://github.com/TheJ-Erk400/moa-groq-langchain-securityspecialist) - Mixture-of-Agents using Groq This Streamlit
 - [Multi-Agent-Secops-Llm](https://github.com/tegridydev/multi-agent-secops-llm) - This project is a multi-agent security framework that utilizes multiple LLM models to analyze and generate comprehensive security briefs.
 - [Multi-Ai-Agents](https://github.com/erndck/Multi-AI-Agents) - The Multi-AI Agent is a groundbreaking integration of artificial intelligence and blockchain technology, designed to provide unparalleled…
