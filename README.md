@@ -1433,6 +1433,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
 - [Agent-Manager-Skill](https://github.com/fractalmind-ai/agent-manager-skill) - tmux + Python agent lifecycle manager for running multiple CLI AI agents (start/stop/monitor/assign) with cron-friendly scheduling.
+- [Agent-Todo](https://github.com/formatho/agent-orchestrator) - Open-source task management platform for AI agents. Track, organize, and manage agent workflows with REST API, CLI tools, and cross-platform support. [github](https://github.com/formatho/agent-orchestrator)
 - [Acte](https://github.com/j66n/acte) - A framework to build GUI-like Agent Tools, enhancement to Function Calling of LLM AI.
 - [Agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260…
 - [Agentgpt-Llm-Tools](https://github.com/GautamSharda/AgentGPT-LLM-Tools) - AgentGPT allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable
