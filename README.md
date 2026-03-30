@@ -1282,6 +1282,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Owasp-Agentic-Ai](https://github.com/precize/OWASP-Agentic-AI) - OWASP Top 10 for Agentic AI (AI Agent Security) - Pre-release version
 - [PolicyLayer](https://github.com/PolicyLayer/PolicyLayer) - Non-custodial spending controls for AI agents with crypto wallets. Enforces daily spending limits, per-transaction caps, recipient whitelists, and rate limiting without holding private keys. Prevents wallet drains from bugs, prompt injection, or infinite loops. [website](https://policylayer.com) | [npm](https://www.npmjs.com/package/@policylayer/sdk)
 - [Rgs](https://github.com/MangelZabalaDevelop/RGS) - Report Generative Security Tool developed for the Generative AI Agents Developer Contest organized by NVIDIA and LangChain.
+- [Scalekit](https://scalekit.com) - OAuth token vault for AI agents to call 100+ third-party APIs (Gmail, Slack, GitHub, Jira) on behalf of users, plus OAuth 2.1 authorization for MCP servers. SOC 2 certified, automatic token refresh and credential vaulting. [website](https://scalekit.com) | [docs](https://docs.scalekit.com)
 - [Secad](https://github.com/gideonaina/secad) - SECAD is an agentic, AI-powered security workflow augmentation application.
 - [Security-Ai-Agent-Brama](https://github.com/oborys/security-ai-agent-brama) - No description available
 - [Sim-Security-Data](https://github.com/Sim-Security/Sim-Security-Data) - Where I collect and process data for AI agents
