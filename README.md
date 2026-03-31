@@ -1448,6 +1448,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Dbt-Llm-Tools](https://github.com/pragunbhutani/dbt-llm-tools) - RAG based LLM chatbot for dbt projects
 - [Demogpt](https://github.com/melih-unsal/DemoGPT) - 🤖 Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place.
 - [Deobfuscate-Android-App](https://github.com/In3tinct/deobfuscate-android-app) - LLM tool to find any potential vulnerabilities and deobfuscate android app code.
+- [DexPaprika-MCP](https://github.com/coinpaprika/dexpaprika-mcp) - MCP server for real-time DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, OHLCV, trades. Free, no API key. [github](https://github.com/coinpaprika/dexpaprika-mcp) | [docs](https://docs.dexpaprika.com)
 - [Dingo](https://github.com/DataEval/dingo) - Dingo - A Comprehensive Data Quality Evaluation Tool
 - [Discovai-Crawl](https://github.com/DiscovAI/DiscovAI-crawl) - 🕷️ DiscovAI Crawl API(🚧 Work in Progress 🚧) - A powerful web scraping solution for AI tools and vector databases. Extract clean HTML, gene…
 - [Docgenie](https://github.com/we-festify/docgenie) - Docgenie is a command-line tool that leverages the power of large language models (LLMs) to automatically generate comprehensive document…
