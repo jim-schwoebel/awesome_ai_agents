@@ -1611,6 +1611,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Toolla](https://github.com/foomprep/toolla) - High level tool use for LLMs
 - [Toolplanner](https://github.com/XiaoMi/toolplanner) - ToolPlanner - A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback
 - [Toolqa](https://github.com/night-chen/ToolQA) - ToolQA, a new dataset to evaluate the capabilities of LLMs in answering challenging questions with external tools. It offers two levels …
+- [ToolRouter](https://toolrouter.com) - Unified tool gateway for AI agents — 150+ tools on demand with one account. Works with Claude, ChatGPT, Cursor, Codex, and any MCP client. [website](https://toolrouter.com) | [npm](https://www.npmjs.com/package/toolrouter-mcp)
 - [Tools](https://github.com/buildownai/tools) - Monorepository of LLM based t AI ools provided by BuildOwn.AI
 - [Tora](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with …
 - [Trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web - Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
