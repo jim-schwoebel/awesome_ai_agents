@@ -1166,7 +1166,6 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Awesome-Prompt-Engineering-Zh-Cn](https://github.com/yunwei37/Awesome-Prompt-Engineering-ZH-CN) - 这个资源库包含了为 Prompt 工程手工整理的资源中文清单，重点是GPT、ChatGPT、PaLM 等（自动持续更新）
 - [Awesome-Prompting-On-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) - This repo lists relevant papers summarized in our survey paper - A Systematic Survey of Prompt Engineering on Vision-Language Foundation M…
 - [Awesome-Prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced P…
-- [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) - A curated survey of 500+ papers on safety in embodied AI, covering risks, attacks, and defenses across the full pipeline (perception, cognition, planning, action, agentic). [github](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) | [website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)
 - [Awesome_Gpt_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security,…
 - [Chatglm-6B-Engineering](https://github.com/LemonQu-GIT/ChatGLM-6B-Engineering) - ChatGLM-6B Prompt Engineering Project
 - [Chatgpt-Prompt-Engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering) - Jupyter code notebooks of "ChatGPT Prompt Engineering for Developers" by DeepLearning.AI and OpenAI.
@@ -1260,6 +1259,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Ai_Security_Agent](https://github.com/SoumilB7/AI_Security_Agent) - Freelance Project with Armur AI
 - [Airmageddon](https://github.com/RamonBeast/airmageddon) - AIrmageddon is a home security AI Agent
 - [Airportagentsimulation-Security](https://github.com/Jogrohe/AirportAgentSimulation-Security) - No description available
+- [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) - A curated list of 500+ papers on safety in embodied AI, covering risks, attacks, and defenses across perception, cognition, planning, action, and agentic layers. [website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)
 - [Awesome_Gpt_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai
 - [Cartlis](https://github.com/Theneo-Inc/Cartlis) - The AI-Powered API Governance Agent enforces rules in real-time, seamlessly integrating with infrastructures and auto-patching violations…
 - [Cognitive-Security-Ai-Powered-Threat-Agent-Evaluation-For-Impact-On-Assets.](https://github.com/Gauravsbin/Cognitive-Security-AI-Powered-Threat-Agent-Evaluation-for-Impact-on-Assets.) - No description available
