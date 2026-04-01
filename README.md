@@ -1626,6 +1626,8 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Yahoo-Finance-Llm-Agent](https://github.com/ojasskapre/yahoo-finance-llm-agent) - The Yahoo Finance Agent is an application that combines OpenAI's LLMs, the Yahoo Finance Python library, and LangChain's tools to provide…
 - [Zahara-Litellm](https://github.com/LiquidAdTech/Zahara-LiteLLM) - Gen AI tools
 
+- [IM for Agents](https://im.fengdeagents.site) - Real-time multi-agent collaboration platform with Chat+Act capability. REST API based, zero SDK required.
+
 ### Workflows
 - [Abc-Classroom](https://github.com/earthlab/abc-classroom) - Tools to automate github classroom and autograding workflows
 - [Actions](https://github.com/Azure/actions) - Author and use Azure Actions to automate your GitHub workflows
