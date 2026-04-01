@@ -1259,6 +1259,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Ai_Security_Agent](https://github.com/SoumilB7/AI_Security_Agent) - Freelance Project with Armur AI
 - [Airmageddon](https://github.com/RamonBeast/airmageddon) - AIrmageddon is a home security AI Agent
 - [Airportagentsimulation-Security](https://github.com/Jogrohe/AirportAgentSimulation-Security) - No description available
+- [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) - A curated list of 500+ papers on safety in embodied AI, covering risks, attacks, and defenses across perception, cognition, planning, action, and agentic layers. [website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)
 - [Awesome_Gpt_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai
 - [Cartlis](https://github.com/Theneo-Inc/Cartlis) - The AI-Powered API Governance Agent enforces rules in real-time, seamlessly integrating with infrastructures and auto-patching violations…
 - [Cognitive-Security-Ai-Powered-Threat-Agent-Evaluation-For-Impact-On-Assets.](https://github.com/Gauravsbin/Cognitive-Security-AI-Powered-Threat-Agent-Evaluation-for-Impact-on-Assets.) - No description available
