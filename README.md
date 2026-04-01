@@ -1429,6 +1429,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 
 ### Tools
+- [Solar-System-Agents](https://github.com/Audazia/solar-system-agents) - Cyberpunk mission control dashboard for monitoring AI agent fleets. Two views: command center with agent roster, cron monitoring, system vitals, and orbital visualization where each agent is a planet. Zero dependencies, static HTML, works with any framework. [demo](https://audazia.github.io/solar-system-agents/mission-control.html)
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
