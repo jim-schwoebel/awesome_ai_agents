@@ -20,6 +20,7 @@ Here are some ways you can use this repository:
 - **Explore** - Browse through the different sections to find tools, resources, and projects that match your interests and needs (e.g. to use, learn, or build agents).
 - **Contribute** - Share your own projects, tools, or resources related to AI agents and contribute to the growing body of knowledge in this field.
 - **Stay Updated** - Keep an eye on the latest developments and discussions about AI agents. Join the community to stay ahead of the curve.
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 Dive in, learn, collaborate, and build the next generation of AI agents.
 
