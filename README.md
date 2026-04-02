@@ -1291,6 +1291,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 ### Testing
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. [github](https://github.com/EvoAgentX/EvoAgentX)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval) - an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG). [github](https://github.com/vectara/open-rag-eval)
+- [Pisama](https://pisama.ai) - Open-source multi-agent failure detection platform. 20 detectors for loops, state corruption, persona drift, hallucination, and 16 more failure types. Tiered heuristic detection at $0 per trace, 60.1% TRAIL benchmark accuracy. [github](https://github.com/tn-pisama/pisama) | [docs](https://docs.pisama.ai)
 - [Voice Lab](https://github.com/saharmor/voice-lab) - A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. [github](https://github.com/saharmor/voice-lab)
 - [Ab-Agent](https://github.com/bassimeledath/ab-agent) - AI Agents automating A/B test design and inference
 - [Adtestpro](https://github.com/AnanyaP-WDW/AdTestPro) - Open Source Tool To Preemptively Test Ad Creatives Against Synthetic Target Audiences
