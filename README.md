@@ -1292,6 +1292,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. [github](https://github.com/EvoAgentX/EvoAgentX)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval) - an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG). [github](https://github.com/vectara/open-rag-eval)
 - [Voice Lab](https://github.com/saharmor/voice-lab) - A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. [github](https://github.com/saharmor/voice-lab)
+- [Harness Evolver](https://github.com/raphaelchristi/harness-evolver) - LangSmith-native autonomous agent optimization. Spawns multi-agent proposers that evolve prompts, routing, tools, and architecture in isolated git worktrees. [github](https://github.com/raphaelchristi/harness-evolver)
 - [Ab-Agent](https://github.com/bassimeledath/ab-agent) - AI Agents automating A/B test design and inference
 - [Adtestpro](https://github.com/AnanyaP-WDW/AdTestPro) - Open Source Tool To Preemptively Test Ad Creatives Against Synthetic Target Audiences
 - [Agent-Ai-Test](https://github.com/Praagnya/agent-ai-test) - Testing finance agent
