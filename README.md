@@ -122,6 +122,7 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **AI Avatar** - Personalized digital representations powered by AI for interactions.  
 - **AI Docs Agents** - Agents specialized in document processing and content generation.  
 - **AI Security** - Intelligent systems to enhance security through threat detection and prevention.  
+- **Asqav** - Quantum-safe governance for AI agents. ML-DSA-65 signed audit trails, policy enforcement, threat detection, and multi-party signing. Integrates with LangChain, CrewAI, OpenAI Agents, Haystack. [github](https://github.com/jagmarques/asqav-sdk) | [website](https://asqav.com) | [docs](https://asqav.com/docs/)
 - **AI Shopping Agents** - Assist shoppers with recommendations, searches, and purchasing.  
 - **AI Video Agents** - Automate video creation, editing, and personalization with AI.  
 - **Authentication Agents** - Secure identity verification and authentication processes with AI.  
@@ -552,7 +553,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Overcooked_Ai_Llm](https://github.com/bzeng2188/overcooked_ai_llm) - Research with LLM multi agent planning on OvercookedAI benchmark.
 - [Pharmasimtext-Os-Llms](https://github.com/epfl-ml4ed/PharmaSimText-OS-LLMs) - This is a repository including the benchmark and agents included in an under review submission to JEDM 2025.
 - [R-Judge](https://github.com/Lordog/R-Judge) - R-Judge - Benchmarking Safety Risk Awareness for LLM Agents (EMNLP Findings 2024)
-- [Safeagentbench](https://github.com/shengyin1224/SafeAgentBench) - Codes for paper "SafeAgentBench - A Benchmark for Safe Task Planning of \\ Embodied LLM Agents"
+- [Safeagentbench](https://github.com/shengyin1224/SafeAgentBench) - Codes for paper "SafeAgentBench - A Benchmark for Safe Task Planning of \ Embodied LLM Agents"
 - [Shampoosalesagent](https://github.com/jackfsuia/ShampooSalesAgent) - A minimal LLM sales agent framework for sales agent fast deployment and benchmark. Support OpenAI models, Claude, HuggingFace models, Gem…
 - [Shortcutsbench](https://github.com/EachSheep/ShortcutsBench) - ShortcutsBench - A Large-Scale Real-World Benchmark for API-Based Agents
 - [Sim-Court](https://github.com/Miracle-2001/Sim-Court) - BenCourt - A Benchmark and Framework for Court Simulation using LLM-based Agents
