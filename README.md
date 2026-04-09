@@ -1622,6 +1622,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Widemem-Ai](https://github.com/remete618/widemem-ai) - Lightweight Python memory layer for LLM agents with importance scoring, temporal decay, 3-tier hierarchical memory, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS. [github](https://github.com/remete618/widemem-ai) | [website](https://widemem.ai) | [pypi](https://pypi.org/project/widemem-ai/)
 - [Wildguard](https://github.com/allenai/wildguard) - Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs
 - [Wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+- [Xquik](https://xquik.com) - X (Twitter) automation platform with MCP server and 40+ REST API endpoints for AI agents, supporting giveaways, monitoring, media, analytics and more [website](https://xquik.com)
 - [Xemantic-Ai-Tool-Schema](https://github.com/xemantic/xemantic-ai-tool-schema) - Kotlin multiplatform AI/LLM tool use (function calling) JSON Schema generator
 - [Yahoo-Finance-Llm-Agent](https://github.com/ojasskapre/yahoo-finance-llm-agent) - The Yahoo Finance Agent is an application that combines OpenAI's LLMs, the Yahoo Finance Python library, and LangChain's tools to provide…
 - [Zahara-Litellm](https://github.com/LiquidAdTech/Zahara-LiteLLM) - Gen AI tools
