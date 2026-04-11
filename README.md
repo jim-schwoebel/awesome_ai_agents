@@ -1477,6 +1477,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Botsh](https://github.com/jamsocket/botsh) - An LLM-based agent that will install the tools it needs.
 - [Brahmasumm-Community-Edition](https://github.com/balajivis/BrahmaSumm-Community-Edition) - BrahmaSumm is an advanced document summarization and visualization tool designed to streamline document management, knowledge base creati…
 - [Brokenhill](https://github.com/BishopFox/BrokenHill) - A productionized greedy coordinate gradient (GCG) attack tool for large language models (LLMs)
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - Social media API for 11 platforms with an MCP server (29 tools) that lets AI agents create posts, schedule content, upload media, and track analytics. REST API, Python & Node.js SDKs. [npm](https://www.npmjs.com/package/@bulkpublish/mcp-server)
 - [Bubbln_Network-Automation](https://github.com/olasupo/bubbln_network-automation) - An AI-driven network automation tool
 - [Ceo-Agentic-Ai-Framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework) - An ultra-lightweight Agentic AI framework based on the ReAct paradigm, supporting mainstream LLMs and is stronger than Swarm.
 - [Chatbot](https://github.com/YidaHu/chatbot) - 基于LLM的聊天机器人，AI Agent的自主智能体，利用Function、Tools、Agent来实现LLM自主工作
