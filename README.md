@@ -1612,6 +1612,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Toolplanner](https://github.com/XiaoMi/toolplanner) - ToolPlanner - A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback
 - [Toolqa](https://github.com/night-chen/ToolQA) - ToolQA, a new dataset to evaluate the capabilities of LLMs in answering challenging questions with external tools. It offers two levels …
 - [Tools](https://github.com/buildownai/tools) - Monorepository of LLM based t AI ools provided by BuildOwn.AI
+- [Toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code workflow for inspecting repositories, applying SEO and Google Ads fixes, and shipping repo-aware changes through autonomous coding-agent runs. [github](https://github.com/nowork-studio/toprank)
 - [Tora](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with …
 - [Trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web - Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [Unchained](https://github.com/aaronamelgar/unchained) - A Django-based tool for prompt engineering and LLM system evaluation.
