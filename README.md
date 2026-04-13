@@ -1953,6 +1953,7 @@ Your star helps others find this valuable resource! By starring, you:
 - Support the AI agents community.  
 - Gain access to the freshest content updated **every 24 hours**.  
 - Inspire others to dive into the world of intelligent systems.  
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 Let’s shape the future of AI together! 🌟 
 
