@@ -29,6 +29,8 @@ Dive in, learn, collaborate, and build the next generation of AI agents.
 
 ---
 
+
+- [Ambr](https://github.com/AmbrAgent) — A2A agent for Ricardian Contract management. Enables automated legal contract creation, validation, and enforcement using AI agents.
 ## 🎉 Upcoming Event: Agents Connect Conference
 
 <div align="center">
