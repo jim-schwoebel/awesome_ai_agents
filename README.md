@@ -133,6 +133,7 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **Data Analysis** - Analyze and interpret data using intelligent AI agents.  
 - **Data Science** - AI-driven solutions for advanced data modeling and exploration.  
 - **Desktop AI Agents** - AI agents designed to run locally on desktop systems for various tasks.  
+- **[CodeFlow](https://github.com/joinwell52-AI/codeflow-pwa)** - Human-AI collaboration hub for multi-agent teams in Cursor IDE. Desktop EXE patrols agents with OCR self-healing; phone PWA sends tasks via WebSocket relay. Ships 4 AI roles (PM/DEV/QA/OPS) with .mdc rules and 3 team templates.  
 - **Digital Workers** - Virtual agents that replicate human workflows in digital environments.  
 - **Education AI Agents** - Tools to enhance learning experiences through personalized education.  
 - **Email AI Agents** - Automate email organization, writing, and management with AI.  
