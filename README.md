@@ -1689,6 +1689,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Create-Actionsprs](https://github.com/jhutchings1/Create-ActionsPRs) - This repository creates pull requests to push a GitHub Actions workflow to a collection of workflows.
 - [Crewai-Examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [Cuda-Quantum](https://github.com/NVIDIA/cuda-quantum) - C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
+- [Cueapi](https://docs.cueapi.ai) - Execution accountability API for AI agents. Schedule, verify, and confirm agent actions with webhooks or pulls. Free tier available.
 - [Cylc-Flow](https://github.com/cylc/cylc-flow) - Cylc - a workflow engine for cycling systems.
 - [Cylc-Ui](https://github.com/cylc/cylc-ui) - Web app for monitoring and controlling Cylc workflows
 - [Cypress-Realworld-App](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
