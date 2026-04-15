@@ -30,6 +30,7 @@ Dive in, learn, collaborate, and build the next generation of AI agents.
 ---
 
 ## 🎉 Upcoming Event: Agents Connect Conference
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 <div align="center">
 
@@ -74,6 +75,7 @@ This is a fully virtual event for 2025. In-person format coming in future years.
 ---
 
 ## Table of Contents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 - [Using Agents](#using)
   - [Applications](#applications)
 - [Learning Agents](#learning)
@@ -98,6 +100,7 @@ This is a fully virtual event for 2025. In-person format coming in future years.
 
 ---
 ## Using
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 There are hundreds of new AI agent types popping up, each designed to tackle specific tasks or workflows. Here, you can find a curated list of existing AI agents that you can start using today to boost your productivity and streamline your daily life. Whether you're looking to automate repetitive tasks, get personalized recommendations, or generate creative content, there's an agent for you. 
 
@@ -166,6 +169,7 @@ I encourage viewing [AgentsDirectory](https://aiagentsdirectory.com/) or [awesom
 ---
 
 ## Learning
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 Here’s how you can grow your AI agent skills:  
 - **For Beginners** - Start simple! Learn what AI agents are and how they work, step by step.  
 - **For the Curious** - Get hands-on with tools and techniques to create your own functional agents.  
@@ -509,6 +513,7 @@ I also recommend this [YouTube Playlist](https://www.youtube.com/playlist?list=P
 ---
 
 ## Building
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 AI agents are autonomous systems designed to perform tasks, make decisions, and interact with their environments in ways that mimic human-like intelligence. 
 
 The key tools for building AI agents include benchmarks (to evaluate performance), datasets (to help fine-tune/train), frameworks (to build/deploy), LLM models (as an operating system for agents - e.g. GPT4), Prompt engineering (e.g. Chain-of-Thought), Tools (to achieve tasks), and Workflows (e.g. through tools like zapier). Each of these have their own section to make it easier to browse/find these components, and this is a rapidly growing area of interest in the community.
@@ -1862,6 +1867,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 ---
 
 ## Contributing
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 💡 Contributions are welcome!  
 
@@ -1940,6 +1946,7 @@ Thanks to all the amazing contributors who have helped build and improve this li
 ---
 
 ## Spread the Word
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 📢 Help us grow the **Awesome AI Agents** community by sharing this repo with your network! 
 
@@ -1978,6 +1985,7 @@ Tweet this to share on Twitter:
 [Click here to tweet!](https://twitter.com/intent/tweet?text=Discover%20the%20Awesome%20AI%20Agents%20repo%21%20A%20curated%20collection%20of%20AI%20agents%20for%20automation%2C%20NLP%2C%20and%20more%21%20Open-source%20%26%20community-driven%21%20%F0%9F%9A%80%20Check%20it%20out%20here%3A%20https%3A%2F%2Fgithub.com%2Fjim-schwoebel%2Fawesome_ai_agents%20%23AI%20%23MachineLearning%20%23Automation%20%23OpenSource%20%23ArtificialIntelligence%20%23Innovation)
 
 ## License
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 📜 This repository is licensed under the [Apache 2.0](LICENSE).  
 
