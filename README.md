@@ -30,6 +30,7 @@ Dive in, learn, collaborate, and build the next generation of AI agents.
 ---
 
 ## 🎉 Upcoming Event: Agents Connect Conference
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 <div align="center">
 
