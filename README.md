@@ -1576,6 +1576,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Ollama-Mcp-Bridge](https://github.com/patruff/ollama-mcp-bridge) - Bridge between Ollama and MCP servers, enabling local LLMs to use Model Context Protocol tools
 - [Open-Webui-Tools](https://github.com/Haervwe/open-webui-tools) - a Repository of Open-WebUI tools to use with your favourite LLMs
 - [Openai-Tools](https://github.com/tipani86/OpenAI-Tools) - Toolkit to get the most out of your OpenAI Account
+- [OpenTwins](https://github.com/Open-Twin/opentwins) - Autonomous digital-twin agents for 10 social platforms (Reddit, Twitter/X, LinkedIn, Bluesky, Threads, Medium, Substack, Dev.to, Product Hunt, Indie Hackers). Runs a 7-stage content pipeline (trend scout → competitive intel → engagement tracker → network mapper → amplification → planner → writer), powered by Claude Code with a local dashboard. [github](https://github.com/Open-Twin/opentwins) | [website](https://opentwins.ai)
 - [Pathology_Llm](https://github.com/JaesikKim/pathology_llm) - GPT-4 as decision support tool in oncology
 - [Pentestgpt](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [Plasmate](https://github.com/plasmate-labs/plasmate) - A browser engine built for AI agents that compiles HTML into a Semantic Object Model (SOM), providing 10x token compression vs raw HTML. V8 JS rendering, CDP compatibility, authenticated browsing, MCP server [github](https://github.com/plasmate-labs/plasmate) | [docs](https://docs.plasmate.app)
