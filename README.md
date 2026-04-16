@@ -514,6 +514,10 @@ AI agents are autonomous systems designed to perform tasks, make decisions, and 
 The key tools for building AI agents include benchmarks (to evaluate performance), datasets (to help fine-tune/train), frameworks (to build/deploy), LLM models (as an operating system for agents - e.g. GPT4), Prompt engineering (e.g. Chain-of-Thought), Tools (to achieve tasks), and Workflows (e.g. through tools like zapier). Each of these have their own section to make it easier to browse/find these components, and this is a rapidly growing area of interest in the community.
 
 ### Benchmarks
+- [FutureAGI simulate-sdk](https://github.com/future-agi/simulate-sdk)
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+
 - [Agentbench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
 - [Agentlab](https://github.com/ServiceNow/AgentLab) - AgentLab - An open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and re…
 - [Agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI…
