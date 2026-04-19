@@ -74,6 +74,7 @@ This is a fully virtual event for 2025. In-person format coming in future years.
 ---
 
 ## Table of Contents
+- [BytesAgain](https://bytesagain.com) - Search 60,000+ AI agent skills via MCP SSE or REST API. Free skill discovery platform supporting 7 languages.
 - [Using Agents](#using)
   - [Applications](#applications)
 - [Learning Agents](#learning)
