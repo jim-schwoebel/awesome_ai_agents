@@ -1244,6 +1244,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 ### Security
 - [Aip-Identity](https://github.com/the-nexus-guard/aip) - Agent Identity Protocol (AIP) provides cryptographic identity (Ed25519/DID), vouch-based trust graphs, and end-to-end encrypted messaging for AI agents. CLI and Python SDK available on PyPI (`pip install aip-identity`) [github](https://github.com/the-nexus-guard/aip) | [website](https://the-nexus-guard.github.io/aip/) | [docs](https://aip-service.fly.dev/docs)
 - [Agent-Repoguardian](https://github.com/flexigpt/agent-repoguardian) - An AI agent that does security scans and vulnerability analysis of code
+- [Agentic-Anti-Patterns](https://github.com/jimliu741523/agentic-anti-patterns) - A curated catalog of how AI agents fail in production — 14 documented failure modes including prompt injection via tool output, destructive actions, memory poisoning, and exfiltration — each with symptoms, root causes, and concrete mitigations.
 - [Agentic_Security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit
 - [Agentictrust](https://github.com/lab101-ai/agentictrust) - Observability, DevTool and Security Platfrom for AI Agents
 - [Agentos](https://github.com/The-Swarm-Corporation/AgentOS) - AgentOS implements a comprehensive security architecture leveraging containerization, orchestration, and multi-layer isolation to ensure …
@@ -1432,6 +1433,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
+- [Agent-Memory-Lab](https://github.com/jimliu741523/agent-memory-lab) - A library of side-by-side memory patterns for LLM agents (sliding window, summary compression, hierarchical summary, with vector retrieval and structured episodic planned), shared interface for drop-in swap, stdlib-only tests.
 - [Agent-Manager-Skill](https://github.com/fractalmind-ai/agent-manager-skill) - tmux + Python agent lifecycle manager for running multiple CLI AI agents (start/stop/monitor/assign) with cron-friendly scheduling.
 - [Acte](https://github.com/j66n/acte) - A framework to build GUI-like Agent Tools, enhancement to Function Calling of LLM AI.
 - [Agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260…
