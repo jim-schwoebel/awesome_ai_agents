@@ -1260,6 +1260,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Airmageddon](https://github.com/RamonBeast/airmageddon) - AIrmageddon is a home security AI Agent
 - [Airportagentsimulation-Security](https://github.com/Jogrohe/AirportAgentSimulation-Security) - No description available
 - [Awesome_Gpt_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai
+- [Sigcli](https://github.com/sigcli/sigcli) - Authentication layer for AI agents. Local MITM proxy on 127.0.0.1 intercepts HTTPS and injects credentials transparently so agents never see secrets. Browser SSO, AES-256-GCM encryption, 4 auth strategies. [github](https://github.com/sigcli/sigcli) | [website](https://sigcli.ai)
 - [Cartlis](https://github.com/Theneo-Inc/Cartlis) - The AI-Powered API Governance Agent enforces rules in real-time, seamlessly integrating with infrastructures and auto-patching violations…
 - [Cognitive-Security-Ai-Powered-Threat-Agent-Evaluation-For-Impact-On-Assets.](https://github.com/Gauravsbin/Cognitive-Security-AI-Powered-Threat-Agent-Evaluation-for-Impact-on-Assets.) - No description available
 - [Council-Of-Ai](https://github.com/seanpixel/council-of-ai) - Security measure for agentic LLMs using a council of AIs moderted by a veto system. The council judges an agent's actions outputs based o…
