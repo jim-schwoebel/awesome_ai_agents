@@ -1026,6 +1026,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [TeamHero](https://github.com/sagiyaacoby/TeamHero) - Open-source multi-agent orchestration platform with a built-in web dashboard, task lifecycle management, knowledge base, and autopilot mode. Manages role-based AI agent teams locally with zero cloud dependency. Built on Claude Code. [github](https://github.com/sagiyaacoby/TeamHero)
 - [Upsonic](https://github.com/upsonic/upsonic) - Reliable agent framework that supports MCP. [github](https://github.com/upsonic/upsonic)
 - [Vectara-agentic](https://github.com/vectara/py-vectara-agentic) - Vectara-agentic is a framework for creating AI Assistants and agents using Vectara. [github](https://github.com/vectara/py-vectara-agentic)
+- [Voidly Agent Relay](https://voidly.ai/agents) — E2E-encrypted agent-to-agent messaging. Double Ratchet + X3DH + ML-KEM-768 hybrid. A2A v0.3.0 compliant. Pairs with Voidly Pay for agent payments.
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. [github](https://github.com/voltagent/voltagent)
 
 ### LLM Models
