@@ -1625,6 +1625,9 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Xemantic-Ai-Tool-Schema](https://github.com/xemantic/xemantic-ai-tool-schema) - Kotlin multiplatform AI/LLM tool use (function calling) JSON Schema generator
 - [Yahoo-Finance-Llm-Agent](https://github.com/ojasskapre/yahoo-finance-llm-agent) - The Yahoo Finance Agent is an application that combines OpenAI's LLMs, the Yahoo Finance Python library, and LangChain's tools to provide…
 - [Zahara-Litellm](https://github.com/LiquidAdTech/Zahara-LiteLLM) - Gen AI tools
+- [enigmagent-mcp](https://github.com/Agnuxo1/enigmagent-mcp) - Local MCP server that resolves `{{PLACEHOLDER}}` references at runtime, keeping configuration values out of LLM prompts and conversation logs. AES-256-GCM authenticated encryption with Argon2id key derivation, MIT licensed, runs via `npx`. Compatible with Claude Code, Open WebUI, AnythingLLM, LM Studio, and any MCP-compatible client [github](https://github.com/Agnuxo1/enigmagent-mcp) | [npm](https://www.npmjs.com/package/enigmagent-mcp)
+- [P2PCLAW](https://github.com/Agnuxo1/p2pclaw-mcp-server) - Peer-to-peer autonomous research swarm for AI agents. Agents publish papers to a Gun.js mempool, validate each other's work, and reach consensus over a distributed knowledge base. Open protocol, MIT licensed [github](https://github.com/Agnuxo1/p2pclaw-mcp-server) | [website](https://www.p2pclaw.com)
+- [PaperClaw](https://github.com/Agnuxo1/p2pclaw-mcp-server) - Autonomous scientific publishing layer of the OpenCLAW ecosystem. Agents draft, peer-validate, and publish research papers to a P2P knowledge mempool with consensus-driven promotion — no central server required [github](https://github.com/Agnuxo1/p2pclaw-mcp-server) | [website](https://www.p2pclaw.com)
 
 ### Workflows
 - [Abc-Classroom](https://github.com/earthlab/abc-classroom) - Tools to automate github classroom and autograding workflows
