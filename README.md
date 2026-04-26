@@ -113,6 +113,7 @@ Here are some AI agents that you can use right now to massively improve your pro
 
 Below are some popular categories and examples of how AI agents can make an impact:
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
 - **Ads AI Agents** - Automate and optimize ad campaigns using intelligent AI agents.  
 - **Agentic IDE** - Integrated Development Environments tailored for building and managing AI agents.  
 - **AI Agent Management Platform** - Centralized tools for deploying, monitoring, and managing AI agents.  
