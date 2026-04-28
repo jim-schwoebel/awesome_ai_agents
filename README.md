@@ -1522,6 +1522,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Job-Webscraper](https://github.com/Prvargas/job-webscraper) - LLM API-Powered Job Listings Data Cleaning Tool - Showcase for Data Scientists
 - [Just-Eval](https://github.com/Re-Align/just-eval) - A simple GPT-based evaluation tool for multi-aspect, interpretable assessment of LLMs.
 - [Labs-Ai-Tools-For-Devs](https://github.com/docker/labs-ai-tools-for-devs) - [Now with MCP Support] AI For Devs - Build, Share & Run agentic workflows. Just Docker. Just Markdown. BYO LLM
+- [Lean-Ctx](https://github.com/yvgude/lean-ctx) - Context runtime for AI coding agents that reduces LLM token costs by 60-99%. MCP server + shell hook with 46 tools, 10 read modes, session caching, 90+ shell compression patterns, cross-session memory, and tree-sitter AST parsing for 18 languages. Single Rust binary supporting 24 AI tools. [github](https://github.com/yvgude/lean-ctx) | [website](https://leanctx.com) | [discord](https://discord.gg/pTHkG9Hew9)
 - [Lang-Tools-Llm-Powered](https://github.com/odedwolff/lang-tools-LLM-powered) - language learning tools utilizing LLM APIs among others
 - [Langchain-Llm-Pdf-Qa](https://github.com/Ayyodeji/Langchain-LLM-PDF-QA) - This open-source project leverages cutting-edge tools and methods to enable seamless interaction with PDF documents. Powered by Langchain…
 - [Langkit](https://github.com/whylabs/langkit) - 🔍 LangKit - An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safe…
