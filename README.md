@@ -1857,7 +1857,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Youtrack-Workflows](https://github.com/JetBrains/youtrack-workflows) - YouTrack Custom Workflow Repository
 - [Zapier](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
 - [Zorow](https://github.com/openmainframeproject/zorow) - z/OS Open Repository of Workflows (zorow), is an open source community dedicated to contributing and collaborating on z/OSMF workflows. 
-
+- [Upizd]((https://github.com/uplizd/uplizd-solutions) - Build, Connect, Deploy, and Scale True Multiple AI Agents on One Unified Infrastructure. Get Long-term Value.
 
 ---
 
