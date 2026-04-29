@@ -1152,6 +1152,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Zeus-Llm-Trainer](https://github.com/official-elinas/zeus-llm-trainer) - Zeus LLM Trainer is a rewrite of Stanford Alpaca aiming to be the trainer for all Large Language Models
 
 ### Prompt Engineering
+- [Free AGENTS.md Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/agents-md-generator/) - Browser-based generator for project-specific AI coding-agent instructions covering repository context, safe command rules, testing gates, and PR checklists.
 - [Advanced-Prompt-Engineering-Techniques-3817061](https://github.com/LinkedInLearning/advanced-prompt-engineering-techniques-3817061) - This repo is for LinkedIn Learning course - Advanced Prompt Engineering Techniques
 - [Advanced-Prompt-Generator](https://github.com/Thunderhead-exe/Advanced-Prompt-Generator) - Automating prompt engineering using AI Agents.
 - [Aigc_Prompt_Engineering](https://github.com/cystanford/aigc_prompt_engineering) - aigc prompt engineering
