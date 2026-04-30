@@ -1489,6 +1489,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Conversational-Agent-With-Qa-Tool](https://github.com/CharlesSQ/conversational-agent-with-QA-tool) - A custom chat agent implemented using Langchain, gpt-3.5 and Pinecone. Implements memory management for context, a custom prompt template…
 - [Cuesubplot](https://github.com/kleer001/cuesubplot) - procedural ai prompts and results
 - [Curategpt](https://github.com/monarch-initiative/curategpt) - LLM-driven curation assist tool
+- [Cycles](https://github.com/runcycles/cycles-server) - Open-source runtime authority for AI agents — enforces hard limits on spend, risk, and tool actions before execution. Multi-tenant and concurrency-safe; SDKs for Python/TypeScript/Rust, Spring Boot starter, MCP server compatible with Claude Desktop/Cursor/Windsurf. [github](https://github.com/runcycles/cycles-server) | [website](https://runcycles.io) | [protocol](https://github.com/runcycles/cycles-protocol)
 - [Dbt-Llm-Tools](https://github.com/pragunbhutani/dbt-llm-tools) - RAG based LLM chatbot for dbt projects
 - [Demogpt](https://github.com/melih-unsal/DemoGPT) - 🤖 Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place.
 - [Androidmeda](https://github.com/In3tinct/deobfuscate-android-app) - AI tool to deobfuscate and find any potential vulnerabilities in android apps.
