@@ -140,7 +140,7 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **Lead Generation AI Agent** - Automate lead discovery and qualification for sales pipelines.  
 - **Marketing AI Agent** - Intelligent tools for creating and optimizing marketing campaigns.  
 - **Model Serving** - Platforms and tools to deploy AI models for real-time use.  
-- **Music AI Agents** - AI tools for composing, editing, or analyzing music (e.g. [suno](https://suno.ai)).  
+- **Music AI Agents** - AI tools for composing, editing, or analyzing music (e.g. [suno](https://suno.ai), [Suede](https://app.suedeai.xyz) — x402-paid music + video generation with on-chain ownership infrastructure).  
 - **Operations AI Agents** - Streamline business operations with AI-driven automation.  
 - **Observability** - Monitor and analyze system performance with AI-powered insights.  
 - **Personal Assistant** - AI assistants to manage personal schedules, tasks, and reminders.  
