@@ -1248,6 +1248,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Agentictrust](https://github.com/lab101-ai/agentictrust) - Observability, DevTool and Security Platfrom for AI Agents
 - [Agentos](https://github.com/The-Swarm-Corporation/AgentOS) - AgentOS implements a comprehensive security architecture leveraging containerization, orchestration, and multi-layer isolation to ensure …
 - [AgentShield](https://github.com/elliotllliu/agent-shield) - Open-source security scanner for AI agent skills, MCP servers, and plugins. 30 rules, AST analysis, cross-file tracking, 5-dimension scoring. Zero install, 100% offline, MIT licensed. [github](https://github.com/elliotllliu/agent-shield) | [npm](https://www.npmjs.com/package/@elliotllliu/agent-shield)
+- [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - Python CLI by Repello AI for extracting agentic workflows from LangChain, LangGraph, CrewAI, and AutoGen and running automated threat modeling against the resulting graphs.
 - [Agriaid](https://github.com/shamspias/AgriAid) - AgriAid is an AI-powered tool for farmers & agricultural agents in Bangladesh, offering plant disease forecasting & identification. Using…
 - [Ai-Agent](https://github.com/ZielBox/ai-agent) - Performs various AI enabled actions and specialized in security management.
 - [Ai-Agent-Security](https://github.com/SecurityLab-UCD/ai-agent-security) - This repository contains source code for the demos and attacks we present in our paper Security of AI Agents.
