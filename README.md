@@ -1285,6 +1285,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Secad](https://github.com/gideonaina/secad) - SECAD is an agentic, AI-powered security workflow augmentation application.
 - [Security-Ai-Agent-Brama](https://github.com/oborys/security-ai-agent-brama) - No description available
 - [Sim-Security-Data](https://github.com/Sim-Security/Sim-Security-Data) - Where I collect and process data for AI agents
+- [TealTiger](https://github.com/agentguard-ai/tealtiger) - Open-source deterministic governance engine for AI agents. 7 parallel modules (secrets, registry, reliability, memory, audit, dashboard, evidence), 500+ secret detection patterns, tool allowlisting, Docker sidecar for any language. No LLM in the decision path — same input + same policy = same decision. [github](https://github.com/agentguard-ai/tealtiger) | [website](https://tealtiger.ai) | [docs](https://docs.tealtiger.ai)
 - [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Web_Scrape_Agent_Ai](https://github.com/rxslice/Web_Scrape_Agent_AI) - Enterprise-Quality Autonomous Agent complete with relevant tools, master prompt, additional optional AI services, API compatible, basic s…
 
