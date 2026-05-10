@@ -1180,6 +1180,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Core](https://github.com/zenbase-ai/core) - Prompt engineering, automated.
 - [Deeplearningai-Chatgpt-Promptengineering](https://github.com/LazaUK/DeepLearningAI-ChatGPT-PromptEngineering) - Practical Jupyter notebooks from Andrew Ng and Isa Fulford's "ChatGPT Prompt Engineering for Developers" course on DeepLearning.AI.
 - [Flow-Prompt](https://github.com/LamoomAI/flow-prompt) - Open source library for production prompt engineering and load balancing of AI Models
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for shipping self-improving AI agents. [github](https://github.com/future-agi/future-agi)
 - [Generative-Ai-Prompt-Engineering](https://github.com/build-on-aws/generative-ai-prompt-engineering) - Sample code that helps us explore the world of generative AI through prompt engineering. It provides the resources for experimenting with…
 - [Get-Things-Done-With-Prompt-Engineering-And-Langchain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading a…
 - [Gptstore-Prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
