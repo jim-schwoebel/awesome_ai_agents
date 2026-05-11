@@ -1304,6 +1304,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Agentic.Md](https://github.com/ai-primitives/agentic.md) - Build, Test, Deploy, & Iterate on AI Agents using Markdown & MDX
 - [Agents](https://github.com/culurciello/agents) - A collection of AI agents to test AI capabilities, and to be used as tutorials and demonstrations
 - [Ai-Agency](https://github.com/Garcluca/AI-Agency) - Testing Bed for AI Agents and Orchestration
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners. [github](https://github.com/future-agi/ai-evaluation)
 - [Ai-Agent-Design-For-Iq-Tests](https://github.com/tex216/AI-Agent-Design-for-IQ-Tests) - Designed an AI agent to pass Raven’s Progressive Matrices tests, details see the Final-Project-Report.
 - [Ai-Agent-Lab](https://github.com/Zeeshan138063/ai-agent-lab) - AI Agent Lab: An open-source repository to build, test, and deploy AI agents using Python, with examples and modular design.
 - [Ai-Agent-Playground](https://github.com/Wei1024/AI-Agent-Playground) - test repo to develop an AI agent framework for office workers
@@ -1415,6 +1416,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Testzeus-Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Welcome to Hercules, the world's first open-source testing agent that's here to lift your testing burdens with the strength of a mytholog…
 - [Theagentsgameai](https://github.com/ZelunGlenn/TheAgentsGameAI) - AI testing system for The Agents Game logic, using decision tree.
 - [Tic-Tac-Toe](https://github.com/OmerCinal/Tic-Tac-Toe) - Search and AI algorithms testing game. Big Tic Tac Toe
+- [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers, capturing prompts, tokens, latency, and errors. [github](https://github.com/future-agi/traceAI)
 - [Travel_Agent](https://github.com/gowthaml15/travel_agent) - This repo is for testing crew_ai and trying a travel agent usecase
 - [Vacuum-Agents](https://github.com/hholb/vacuum-agents) - A Simulated Robot Vaccuum for testing different AI algorithms.
 - [Vercel_Ai_Test](https://github.com/pixelknit/vercel_ai_test) - Test for webgl ai agent
