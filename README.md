@@ -1289,6 +1289,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Web_Scrape_Agent_Ai](https://github.com/rxslice/Web_Scrape_Agent_AI) - Enterprise-Quality Autonomous Agent complete with relevant tools, master prompt, additional optional AI services, API compatible, basic s…
 
 ### Testing
+- [agent-opt](https://github.com/future-agi/agent-opt) - Open-source library for automated optimization of AI agent workflows. Evaluation-driven prompt and config tuning with six optimization algorithms. [github](https://github.com/future-agi/agent-opt)
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. [github](https://github.com/EvoAgentX/EvoAgentX)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval) - an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG). [github](https://github.com/vectara/open-rag-eval)
 - [Voice Lab](https://github.com/saharmor/voice-lab) - A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. [github](https://github.com/saharmor/voice-lab)
