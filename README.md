@@ -1597,6 +1597,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Simple-Llm-Exporter](https://github.com/realityinspector/simple-llm-exporter) - a tool to export entire scripts to a text file with a file tree and description, for exporting to llm's
 - [SkillLite](https://github.com/EXboys/skilllite) - A lightweight, zero-dependency runtime for the agentsskills protocol that enables AI agents to securely execute portable skills locally. Written in Rust with native OS sandboxing, millisecond cold starts, single binary deployment [github](https://github.com/EXboys/skilllite)
 - [Smart_Fault_Injector_Llm](https://github.com/JiaHuann/Smart_Fault_Injector_LLM) - Intelligent kernel error injection/testing tool based on large model and eBPF.(基于大模型和eBPF的智能化kernel错误注入、测试工具)
+- [Sparkbtcbot-Skill](https://github.com/echennells/sparkbtcbot-skill) - Spark Bitcoin L2 wallet skill for AI agents — encrypted seed storage, instant zero-fee Spark transfers, Lightning Network interop (BOLT11), L402 paywall payment, BTKN/LRC20 tokens, L1 deposits and cooperative withdrawals.
 - [Speech-To-Code](https://github.com/dharllc/speech-to-code) - llm assisted development tools
 - [Speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
 - [Splaa](https://github.com/cp3249/splaa) - SPLAA is an AI assistant framework that utilizes voice recognition, text-to-speech, and tool-calling capabilities to provide a conversati…
