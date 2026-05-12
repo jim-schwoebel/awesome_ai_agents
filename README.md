@@ -1243,6 +1243,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 ### Security
 - [Aip-Identity](https://github.com/the-nexus-guard/aip) - Agent Identity Protocol (AIP) provides cryptographic identity (Ed25519/DID), vouch-based trust graphs, and end-to-end encrypted messaging for AI agents. CLI and Python SDK available on PyPI (`pip install aip-identity`) [github](https://github.com/the-nexus-guard/aip) | [website](https://the-nexus-guard.github.io/aip/) | [docs](https://aip-service.fly.dev/docs)
+- [APort](https://aport.io/) - APort verifies agent identity and gates tool, API, and MCP actions through policy checks for safer AI agent deployments. [website](https://aport.io/) | [docs](https://aport.io/docs/)
 - [Agent-Repoguardian](https://github.com/flexigpt/agent-repoguardian) - An AI agent that does security scans and vulnerability analysis of code
 - [Agentic_Security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit
 - [Agentictrust](https://github.com/lab101-ai/agentictrust) - Observability, DevTool and Security Platfrom for AI Agents
