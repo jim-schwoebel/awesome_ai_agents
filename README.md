@@ -1495,6 +1495,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Dingo](https://github.com/DataEval/dingo) - Dingo - A Comprehensive Data Quality Evaluation Tool
 - [Discovai-Crawl](https://github.com/DiscovAI/DiscovAI-crawl) - 🕷️ DiscovAI Crawl API(🚧 Work in Progress 🚧) - A powerful web scraping solution for AI tools and vector databases. Extract clean HTML, gene…
 - [Docgenie](https://github.com/we-festify/docgenie) - Docgenie is a command-line tool that leverages the power of large language models (LLMs) to automatically generate comprehensive document…
+- [Dock](https://github.com/try-dock-ai/mcp) - Multi-agent workspace where humans and AI agents share workspaces, tables, docs, and threads as first-class principals. Hosted remote MCP server at trydock.ai/api/mcp plus a local stdio bridge (`npx -y @trydock/mcp`) for Claude Desktop, Cursor, Windsurf, Zed, Cline, and Continue. Every write stamps principal identity so you can see which agent or human made each edit. [github](https://github.com/try-dock-ai/mcp) | [website](https://trydock.ai) | [docs](https://trydock.ai/docs/mcp) | [github profile](https://github.com/try-dock-ai)
 - [Draft](https://github.com/quchangle1/DRAFT) - The implementation for the paper - From Exploration to Mastery - Enabling LLMs to Master Tools via Self-Driven Interactions.
 - [Ds-Llm-Webui](https://github.com/DocShotgun/ds-llm-webui) - A simple tool-use assistant for local LLMs powered by TabbyAPI
 - [Ducky](https://github.com/ParthSareen/ducky) - Local AI pair programming tool
