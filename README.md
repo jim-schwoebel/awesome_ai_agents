@@ -1498,7 +1498,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Draft](https://github.com/quchangle1/DRAFT) - The implementation for the paper - From Exploration to Mastery - Enabling LLMs to Master Tools via Self-Driven Interactions.
 - [Ds-Llm-Webui](https://github.com/DocShotgun/ds-llm-webui) - A simple tool-use assistant for local LLMs powered by TabbyAPI
 - [Ducky](https://github.com/ParthSareen/ducky) - Local AI pair programming tool
-- [ejentum-mcp](https://github.com/ejentum/ejentum-mcp) - Reasoning Harness for agentic AI: 4 MCP tools (reasoning, code, anti-deception, memory) over 679 engineered cognitive operations. Each call returns a structured scaffold the calling LLM ingests before its first token, catching sycophancy, hallucination, and reasoning decay before they emerge. [github](https://github.com/ejentum/ejentum-mcp) | [npm](https://www.npmjs.com/package/ejentum-mcp) | [website](https://ejentum.com)
+- [ejentum-mcp](https://github.com/ejentum/ejentum-mcp) - MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
 - [Emergent](https://github.com/kyb3r/emergent) - An implementation of long term memory and external tools for LLMs
 - [Empower-Functions](https://github.com/empower-ai/empower-functions) - GPT-4 level function calling models for real-world tool using use cases
 - [Erag](https://github.com/EdwardDali/erag) - an AI interaction tool with RAG hybrid search, conversation context, web content processing and structured data analysis with LLM / GPT
