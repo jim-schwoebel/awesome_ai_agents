@@ -29,6 +29,9 @@ Dive in, learn, collaborate, and build the next generation of AI agents.
 
 ---
 
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor): Real-time monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
+
 ## 🎉 Upcoming Event: Agents Connect Conference
 
 <div align="center">
