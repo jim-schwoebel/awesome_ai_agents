@@ -1287,6 +1287,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Sim-Security-Data](https://github.com/Sim-Security/Sim-Security-Data) - Where I collect and process data for AI agents
 - [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Web_Scrape_Agent_Ai](https://github.com/rxslice/Web_Scrape_Agent_AI) - Enterprise-Quality Autonomous Agent complete with relevant tools, master prompt, additional optional AI services, API compatible, basic s…
+- [APort](https://aport.io) - Open-source AI agent policy and verification framework. Enforces policy-based guardrails, verifies agent actions, and prevents misuse in production AI agent systems. [github](https://github.com/aporthq/aport-integrations) | [website](https://aport.io)
 
 ### Testing
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. [github](https://github.com/EvoAgentX/EvoAgentX)
