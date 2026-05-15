@@ -1666,6 +1666,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Aws-Swf-Flow-Library](https://github.com/aws/aws-swf-flow-library) - AWS Simple Workflow Flow framework library
 - [Azkaban](https://github.com/azkaban/azkaban) - Azkaban workflow manager.
 - [Backbone-Boilerplate](https://github.com/tbranyen/backbone-boilerplate) - A workflow for building Backbone applications.
+- [BEMYAGENT.md](https://github.com/vitotafuni/bemyagent) - A lightweight, self-bootstrapping Markdown protocol that acts as an Agent OS to prevent context-bloating and optimize workflow pacing for AI coding assistants.
 - [Biobakery_Workflows](https://github.com/biobakery/biobakery_workflows) - bioBakery workflows is a collection of workflows and tasks for executing common microbial community analyses using standardized, validate…
 - [Bioinformatics](https://github.com/jumphone/Bioinformatics) - Bioinformatics Workflows
 - [Bioinformatics](https://github.com/stevekm/Bioinformatics) - Bioinformatics analysis scripts, workflows, general code examples
