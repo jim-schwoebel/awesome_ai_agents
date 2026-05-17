@@ -1625,6 +1625,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Xemantic-Ai-Tool-Schema](https://github.com/xemantic/xemantic-ai-tool-schema) - Kotlin multiplatform AI/LLM tool use (function calling) JSON Schema generator
 - [Yahoo-Finance-Llm-Agent](https://github.com/ojasskapre/yahoo-finance-llm-agent) - The Yahoo Finance Agent is an application that combines OpenAI's LLMs, the Yahoo Finance Python library, and LangChain's tools to provide…
 - [Zahara-Litellm](https://github.com/LiquidAdTech/Zahara-LiteLLM) - Gen AI tools
+- [klymax402](https://klymax402.com) - 100 x402 micropayment APIs / MCP servers for AI agents. Composable in 6 use-case bundles (crypto trading, B2B SDR, SEO, security, web intel, sentiment). USDC on Base.
 
 ### Workflows
 - [Abc-Classroom](https://github.com/earthlab/abc-classroom) - Tools to automate github classroom and autograding workflows
