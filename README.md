@@ -129,7 +129,7 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **Coding Assistant** - AI-powered tools to help developers with coding tasks and suggestions (e.g. [Cursor](https://www.cursor.com/)).
 - **Coding Library** - Reusable AI-driven code libraries to speed up development.  
 - **Content Creation** - AI tools for generating written, visual, and multimedia content.  
-- **Customer Service** - AI agents designed to handle customer support and interactions (e.g. Sierra).
+- **Customer Service** - AI agents designed to handle customer support and interactions (e.g. Sierra, [Bella (Joanna)](https://bella.salon/ai-receptionist-for-salons/) for salons).
 - **Data Analysis** - Analyze and interpret data using intelligent AI agents.  
 - **Data Science** - AI-driven solutions for advanced data modeling and exploration.  
 - **Desktop AI Agents** - AI agents designed to run locally on desktop systems for various tasks.  
