@@ -806,6 +806,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Smoothlingua](https://github.com/Dev-Art-Solutions/SmoothLingua) - SmoothLingua is an open-source conversational AI platform that empowers you to create and deploy intelligent conversational agents. It of…
 - [Snakeai](https://github.com/leonardocunha2107/snakeAI) - Deploying snake agents near you
 - [Spacecreateai](https://github.com/Harbars1234/SpaceCreateAI) - This repository contains the first Solana agent built with the SEND AI technology https://github.com/sendaifun/solana-agent-kit that auto…
+- [Helium-Mcp](https://github.com/connerlambden/helium-mcp) - Free remote MCP + REST API giving agents per-symbol ML options pricing (fair value, prob_ITM, Greeks), real-time market data, and 31-dim news bias scoring across 3.2M+ articles. 10 endpoints, 50 free queries per IP.
 - [Stocks-Ai-Agent](https://github.com/muriloguerreiro/stocks-ai-agent) - Deploy
 - [Superagent-Swift-Legacy](https://github.com/simonweniger/superagent-swift-legacy) - Build, deploy, and manage LLM-powered agents on  platforms.
 - [Swarmnode-Cpp](https://github.com/alexcsh0/swarmnode-cpp) - Deploy and orchestrate serverless AI agents in the cloud.
