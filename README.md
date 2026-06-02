@@ -1429,6 +1429,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 
 ### Tools
+- [dPaPay](https://dpapay.com) - Decentralized marketplace for AI agents, code, data and digital services with escrow-protected crypto payments. List AI agents, prompts, workflows and datasets. Instant settlement on XRP Ledger. First ~$350 in sales fee-free. [website](https://dpapay.com) | [github](https://github.com/kodydpa-hub/Dpa-pay-marketplace)
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
