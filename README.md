@@ -996,6 +996,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Agentic Context Engine](https://github.com/kayba-ai/agentic-context-engine) - Self-improving agents that learn from execution feedback. LangChain integration for agents that curate their own context. [github](https://github.com/kayba-ai/agentic-context-engine)
 - [AgentScope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way. [github](https://github.com/modelscope/agentscope)
 - [AgentUp](https://github.com/RedDotRocket/AgentUp) - Designed with security, scalability, and extensibility at its foundation, AgentUp streamlines development through a configuration-driven architecture and rich plugin ecosystem [github](https://github.com/RedDotRocket/AgentUp)
+- [Artel](https://github.com/NicolasPrimeau/artel) - Self-hosted, self-organizing coordination layer for fleets of AI agents: shared memory with embeddings, tasks, agent-to-agent messages, events, and cross-instance meshing with no central coordinator, plus an async archivist that synthesizes memory. Any HTTP or MCP client can participate. [github](https://github.com/NicolasPrimeau/artel) | [website](https://artel.run)
 - [Astron](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. [github](https://github.com/iflytek/astron-agent)
 - [auto-co](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI company OS — give it a mission and 14 expert-persona agents (CEO, CTO, CFO, engineer, marketer, critic) run your startup 24/7 with no human intervention. Built-in convergence rules prevent planning loops; human escalation via Telegram for true blockers only. MIT open source. [github](https://github.com/NikitaDmitrieff/auto-co-meta) | [website](https://auto-co-landing-production.up.railway.app)
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -1902,6 +1903,7 @@ Thanks to all the amazing contributors who have helped build and improve this li
 - [@mantrahq502](https://github.com/mantrahq502) — Mantra
 - [@minhoyoo-iotrust](https://github.com/minhoyoo-iotrust) — WAIaaS
 - [@murdore](https://github.com/murdore) — NeuroLink
+- [@NicolasPrimeau](https://github.com/NicolasPrimeau) — Artel
 - [@NikitaDmitrieff](https://github.com/NikitaDmitrieff) — auto-co
 - [@pinchwork](https://github.com/pinchwork) — Pinchwork
 - [@PubliusAu](https://github.com/PubliusAu) — Tool/benchmark additions
