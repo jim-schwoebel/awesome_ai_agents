@@ -1285,6 +1285,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Secad](https://github.com/gideonaina/secad) - SECAD is an agentic, AI-powered security workflow augmentation application.
 - [Security-Ai-Agent-Brama](https://github.com/oborys/security-ai-agent-brama) - No description available
 - [Sim-Security-Data](https://github.com/Sim-Security/Sim-Security-Data) - Where I collect and process data for AI agents
+- [Vertex](https://www.vertex.blue/) - Zero-trust proxy between AI agents and the production APIs they call. A human vaults a provider key once; the agent gets a scoped, revocable token it can never read, with per-service/method policy, operator-set spend caps, taint-based prompt-injection blocking, and a tamper-evident audit log. [website](https://www.vertex.blue/) | [npm](https://www.npmjs.com/package/vertex-blue-client)
 - [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Web_Scrape_Agent_Ai](https://github.com/rxslice/Web_Scrape_Agent_AI) - Enterprise-Quality Autonomous Agent complete with relevant tools, master prompt, additional optional AI services, API compatible, basic s…
 
