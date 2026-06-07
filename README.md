@@ -1297,6 +1297,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Agent-Ai-Test](https://github.com/Praagnya/agent-ai-test) - Testing finance agent
 - [Agent-Evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents.
 - [Agent-Smith-E2E-Test](https://github.com/dangoddard-trilogy/agent-smith-e2e-test) - AI-powered E2E testing tool
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving agentic QA harness with memory for natural-language web and mobile test execution.
 - [Agent-Solarpanels-Tutorial](https://github.com/Pairrot-Lore/agent-solarpanels-tutorial) - This repository contains an AI agent built with LangGraph to calculate energy savings for solar panels. The project is designed for use w…
 - [Agentacc-Batch-Test](https://github.com/Hehua-Fan/AgentAcc-Batch-Test) - A application to test the AI agent accuracy, powered by Streamlit
 - [Agentai_Testing_Repo](https://github.com/SUGUMAR-S/agentAI_testing_repo) - it used for testing purpose
