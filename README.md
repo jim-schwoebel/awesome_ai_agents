@@ -1010,6 +1010,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Khoj-ai](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral) [github](https://github.com/khoj-ai/khoj) | [website](https://khoj.dev)
 - [Lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents. [github](https://github.com/InternLM/lagent)
 - [LangChain Agents](https://github.com/langchain-ai/langchain) - Build context-aware reasoning applications.
+- [LightAgent](https://github.com/wanxingai/LightAgent) - Lightweight Python agent framework with memory, tool use, MCP/SSE integration, reusable Skills, deterministic LightFlow workflows, tracing, and LightSwarm multi-agent collaboration. [github](https://github.com/wanxingai/LightAgent)
 - [LLM Agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs. [github](https://github.com/mpaepper/llm_agents)
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - Agentic components of the Llama Stack APIs. [github](https://github.com/meta-llama/llama-agentic-system)
 - [Mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. [github](https://github.com/mastra-ai/mastra)
