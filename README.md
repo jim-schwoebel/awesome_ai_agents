@@ -1155,6 +1155,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Advanced-Prompt-Engineering-Techniques-3817061](https://github.com/LinkedInLearning/advanced-prompt-engineering-techniques-3817061) - This repo is for LinkedIn Learning course - Advanced Prompt Engineering Techniques
 - [Advanced-Prompt-Generator](https://github.com/Thunderhead-exe/Advanced-Prompt-Generator) - Automating prompt engineering using AI Agents.
 - [Aigc_Prompt_Engineering](https://github.com/cystanford/aigc_prompt_engineering) - aigc prompt engineering
+- [Ai-Workflow-Prompts-Zh](https://github.com/Ronnie2025/ai-workflow-prompts-zh) - MIT-licensed Chinese AI workflow prompt library for repeatable agent-assisted tasks, including content creation, meeting notes, client proposals, slide outlines, SOPs, and reviews.
 - [Arize AX Prompt Learning](https://arize.com/docs/ax/prompts/prompt-optimization/prompt-learning-sdk) - Open source algo + SDK uses meta-prompting and trace-level reflection to optimize prompts
 - [Alphacodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper - "Code Generation with AlphaCodium - From Prompt Engineering to Flow Engineering""
 - [Autogpt-Handbook](https://github.com/RimaBuilds/AutoGPT-handbook) - A guide to using AutoGPT for code generation and prompt engineering.
