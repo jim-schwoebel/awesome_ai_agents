@@ -1498,6 +1498,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Draft](https://github.com/quchangle1/DRAFT) - The implementation for the paper - From Exploration to Mastery - Enabling LLMs to Master Tools via Self-Driven Interactions.
 - [Ds-Llm-Webui](https://github.com/DocShotgun/ds-llm-webui) - A simple tool-use assistant for local LLMs powered by TabbyAPI
 - [Ducky](https://github.com/ParthSareen/ducky) - Local AI pair programming tool
+- [EGC](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory MCP server for 13+ AI coding tools (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, VS Code Copilot, Trae, and more). SQLite-backed state survives context resets. Install: `npm install -g @egchq/egc`
 - [Emergent](https://github.com/kyb3r/emergent) - An implementation of long term memory and external tools for LLMs
 - [Empower-Functions](https://github.com/empower-ai/empower-functions) - GPT-4 level function calling models for real-world tool using use cases
 - [Erag](https://github.com/EdwardDali/erag) - an AI interaction tool with RAG hybrid search, conversation context, web content processing and structured data analysis with LLM / GPT
