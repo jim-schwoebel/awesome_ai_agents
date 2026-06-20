@@ -1977,6 +1977,7 @@ Tweet this to share on Twitter:
 
 [Click here to tweet!](https://twitter.com/intent/tweet?text=Discover%20the%20Awesome%20AI%20Agents%20repo%21%20A%20curated%20collection%20of%20AI%20agents%20for%20automation%2C%20NLP%2C%20and%20more%21%20Open-source%20%26%20community-driven%21%20%F0%9F%9A%80%20Check%20it%20out%20here%3A%20https%3A%2F%2Fgithub.com%2Fjim-schwoebel%2Fawesome_ai_agents%20%23AI%20%23MachineLearning%20%23Automation%20%23OpenSource%20%23ArtificialIntelligence%20%23Innovation)
 
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Create stunning 3D models from text and images using AI.
 ## License
 
 📜 This repository is licensed under the [Apache 2.0](LICENSE).  
