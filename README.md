@@ -1448,6 +1448,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Aitranslate](https://github.com/pmacro/AITranslate) - A tool to translate Xcode xcstrings files using ChatGPT AI/LLM
 - [Aivideochat](https://github.com/messingliu/AIVideoChat) - This is an AI video chat tool with anybody (your girlfriend, your idol etc) you want using LLM
 - [Aix](https://github.com/projectdiscovery/aix) - AIx is a cli tool to interact with Large Language Models (LLM) APIs.
+- [ax](https://github.com/Necmttn/ax) - Local-first evidence graph for coding agents, indexing transcripts from Claude Code, Codex, Cursor, OpenCode, and Pi with read-only MCP queries for sessions, tool calls, skills, and cost.
 - [Are-Copilots-Local-Yet](https://github.com/ErikBjare/are-copilots-local-yet) - Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools …
 - [Arxivrag](https://github.com/phitrann/arXivRAG) - A comprehensive tool designed to enhance the retrieval and generation of academic content from the arXiv database, leveraging advanced Re…
 - [Attention-Viewer](https://github.com/wln20/Attention-Viewer) - A tool for visualizing attention-score heatmap in generative LLMs
