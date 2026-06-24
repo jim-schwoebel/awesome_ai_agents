@@ -1242,6 +1242,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Yival](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 
 ### Security
+- **[Nobulex](https://github.com/arian-gogani/nobulex)** — Ed25519-signed, JCS-canonical bilateral receipts for AI agent actions. Pre/post execution pattern with hash chaining. Independently verifiable without operator trust. EU AI Act Article 12 compliance. `pip install nobulex`
 - [Aip-Identity](https://github.com/the-nexus-guard/aip) - Agent Identity Protocol (AIP) provides cryptographic identity (Ed25519/DID), vouch-based trust graphs, and end-to-end encrypted messaging for AI agents. CLI and Python SDK available on PyPI (`pip install aip-identity`) [github](https://github.com/the-nexus-guard/aip) | [website](https://the-nexus-guard.github.io/aip/) | [docs](https://aip-service.fly.dev/docs)
 - [Agent-Repoguardian](https://github.com/flexigpt/agent-repoguardian) - An AI agent that does security scans and vulnerability analysis of code
 - [Agentic_Security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit
