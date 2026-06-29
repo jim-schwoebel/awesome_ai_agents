@@ -1478,6 +1478,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Brahmasumm-Community-Edition](https://github.com/balajivis/BrahmaSumm-Community-Edition) - BrahmaSumm is an advanced document summarization and visualization tool designed to streamline document management, knowledge base creati…
 - [Brokenhill](https://github.com/BishopFox/BrokenHill) - A productionized greedy coordinate gradient (GCG) attack tool for large language models (LLMs)
 - [Bubbln_Network-Automation](https://github.com/olasupo/bubbln_network-automation) - An AI-driven network automation tool
+- [Buywhere](https://github.com/BuyWhere/buywhere-mcp) - AI-powered shopping agent that finds the best prices across millions of real merchant products, with an MCP server for integration with AI coding assistants [website](https://buywhere.ai) | [github](https://github.com/BuyWhere/buywhere-mcp)
 - [Ceo-Agentic-Ai-Framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework) - An ultra-lightweight Agentic AI framework based on the ReAct paradigm, supporting mainstream LLMs and is stronger than Swarm.
 - [Chatbot](https://github.com/YidaHu/chatbot) - 基于LLM的聊天机器人，AI Agent的自主智能体，利用Function、Tools、Agent来实现LLM自主工作
 - [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis.
