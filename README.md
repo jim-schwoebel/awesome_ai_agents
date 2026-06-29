@@ -1861,6 +1861,8 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 ---
 
+- [OpenRuna agents hub](https://www.openruna.com/hubs/ai-agents) — Searchable graph of 240+ AI agents with typed links to tools, prompts, and workflows.
+
 ## Contributing
 
 💡 Contributions are welcome!  
