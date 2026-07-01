@@ -1013,6 +1013,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [LLM Agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs. [github](https://github.com/mpaepper/llm_agents)
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - Agentic components of the Llama Stack APIs. [github](https://github.com/meta-llama/llama-agentic-system)
 - [Mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. [github](https://github.com/mastra-ai/mastra)
+- [MCP-Plugin-dotnet](https://github.com/IvanMurzak/MCP-Plugin-dotnet) - Open-source .NET library/SDK that turns any .NET application into an MCP server.
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview) - Microsoft's unified open-source framework combining AutoGen and Semantic Kernel, designed for building AI agents and multi-agent workflows in .NET and Python, offering AI agents with LLM support and graph-based workflows for complex multi-step tasks [docs](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview)
 - [Microsoft Magentic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) - A Generalist Multi-Agent System for Solving Complex Tasks.
 - [Modus](https://github.com/hypermodeinc/modus) - An open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language). [github](https://github.com/hypermodeinc/modus)
@@ -1021,6 +1022,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 - [Pinchwork](https://github.com/anneschuth/pinchwork) - Open-source agent-to-agent task marketplace where agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations. [github](https://github.com/anneschuth/pinchwork) | [website](https://pinchwork.dev)
 - [Portia AI](https://github.com/portiaAI/portia-sdk-python/) - Portia is a new open source agentic Python framework designed for creating reliable agents in production. [github](https://github.com/portiaAI/portia-sdk-python)
+- [ReflectorNet](https://github.com/IvanMurzak/ReflectorNet) - Open-source .NET reflection toolkit for AI-driven scenarios.
 - [Registry Broker](https://github.com/hashgraph-online/registry-broker) - A universal index and routing layer for AI agents. Aggregates agent metadata from multiple registries (NANDA, MCP, Virtuals, OpenRouter, A2A, X402 Bazaar) across web2 and web3, normalizes profiles, and provides protocol translation between different agent ecosystems. [github](https://github.com/hashgraph-online/registry-broker) | [docs](https://hol.org/registry/docs)
 - [Strands Agents SDK](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code. [github](https://github.com/strands-agents/sdk-python)
 - [TeamHero](https://github.com/sagiyaacoby/TeamHero) - Open-source multi-agent orchestration platform with a built-in web dashboard, task lifecycle management, knowledge base, and autopilot mode. Manages role-based AI agent teams locally with zero cloud dependency. Built on Claude Code. [github](https://github.com/sagiyaacoby/TeamHero)
@@ -1509,6 +1511,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results
 - [Functions-Tools-And-Agents-With-Langchain](https://github.com/Ryota-Kawamura/Functions-Tools-and-Agents-with-LangChain) - You’ll explore new advancements like ChatGPT’s function calling capability, and build a conversational agent using a new syntax called La…
 - [Gguf-Tools](https://github.com/KerfuffleV2/gguf-tools) - Some random tools for working with the GGUF file format
+- [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
 - [Gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla - Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [Gpt4-Programming-Assistant](https://github.com/petermartens98/GPT4-Programming-Assistant) - Streamlit web app utilizing OpenAI (GPT-4) and LangChain LLM tools. Application includes an SQLite DB for login/authentication and messag…
 - [Graphrag-Visualizer](https://github.com/noworneverev/graphrag-visualizer) - A web-based tool for visualizing and exploring artifacts from Microsoft's GraphRAG.
@@ -1615,6 +1618,8 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Tora](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with …
 - [Trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web - Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [Unchained](https://github.com/aaronamelgar/unchained) - A Django-based tool for prompt engineering and LLM system evaluation.
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents to the Unity Editor and runtime, with 100+ built-in tools.
+- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 - [Useful-Generativeai-Tools-Repo](https://github.com/anishsingh20/Useful-GenerativeAI-Tools-Repo) - This repository has useful prompts for LLM and Generative AI models like Bard and ChatGPT
 - [Visuallm](https://github.com/gortibaldik/visuallm) - Visualization tool for various generation tasks on Language Models.
 - [WFGY](https://github.com/onestardao/WFGY) - An open-source framework for debugging and stress testing LLMs under long-horizon, high-tension text scenarios. Includes a TXT-based debugging app for structured sequences to identify where reasoning breaks and retrieval fails [github](https://github.com/onestardao/WFGY)
