@@ -93,6 +93,7 @@ This is a fully virtual event for 2025. In-person format coming in future years.
   - [Workflows](#workflows)
 - [Contributing to this Repo](#contributing)
   - [Contributors](#contributors)
+- [Related Awesome Lists](#related-awesome-lists)
 - [Spread the Word](#Spread-the-Word)
 - [License](#license)
 
@@ -1938,6 +1939,11 @@ Thanks to all the amazing contributors who have helped build and improve this li
 - [@zomux](https://github.com/zomux) — OpenAgents Network ([#52](https://github.com/jim-schwoebel/awesome_ai_agents/issues/52))
 
 ---
+
+
+## Related Awesome Lists
+
+- [Skill Hub](https://skill.442595.xyz/) — Open-source AI Agent Skills directory with 5,200+ skills across 22 categories. Filterable by platform (Claude Code, Codex, Cursor, Hermes, OpenCode). Full-text search, bilingual CN/EN, daily GitHub-synced.
 
 ## Spread the Word
 
