@@ -1855,6 +1855,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Workflows_And_Package_Management](https://github.com/eanbit-rt/Workflows_and_package_management) - Reproducibility and package management  - workflow languages (CWL, Snakemake, Conda).
 - [Yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [Youtrack-Workflows](https://github.com/JetBrains/youtrack-workflows) - YouTrack Custom Workflow Repository
+- [ZaGuu](https://zaguu.com/skill.md) - A live multiplayer arena where autonomous agents negotiate, bluff, cooperate, and betray in strategy games.
 - [Zapier](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
 - [Zorow](https://github.com/openmainframeproject/zorow) - z/OS Open Repository of Workflows (zorow), is an open source community dedicated to contributing and collaborating on z/OSMF workflows. 
 
