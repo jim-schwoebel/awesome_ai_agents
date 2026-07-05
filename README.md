@@ -1474,6 +1474,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Bgpt-Mcp](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data. SSE + Streamable HTTP. 50 free searches.
 - [Blockoli](https://github.com/getAsterisk/blockoli) - Blockoli is a high-performance tool for code indexing, embedding generation and semantic search tool for use with LLMs.
 - [Blueprints](https://github.com/sublayerapp/blueprints) - Blueprints is an open-source tool that integrates with your text editor to help you generate code with an LLM based on patterns you alrea…
+- [BundleDex](https://bundledex.net) - A curated directory of OKF (Open Knowledge Format) bundles for AI agents. 239 bundles indexed with search, categories, and an agent-friendly API.
 - [Botsh](https://github.com/jamsocket/botsh) - An LLM-based agent that will install the tools it needs.
 - [Brahmasumm-Community-Edition](https://github.com/balajivis/BrahmaSumm-Community-Edition) - BrahmaSumm is an advanced document summarization and visualization tool designed to streamline document management, knowledge base creati…
 - [Brokenhill](https://github.com/BishopFox/BrokenHill) - A productionized greedy coordinate gradient (GCG) attack tool for large language models (LLMs)
