@@ -1,4 +1,6 @@
 # 🤖 Awesome AI Agents: Tools, Resources, and Projects
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 <div align="center">
   
   [![Post on Twitter](https://img.shields.io/badge/Post%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjim-schwoebel%2Fawesome_ai_agents&text=Discover%20the%20Awesome%20AI%20Agents%20repo%21%20A%20curated%20collection%20of%20AI%20agents%20for%20automation%2C%20NLP%2C%20and%20more%21%20Open-source%20%26%20community-driven%21%20%F0%9F%9A%80)
