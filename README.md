@@ -1348,6 +1348,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Backtesteragent](https://github.com/The-Swarm-Corporation/BackTesterAgent) - An enterprise-grade AI-powered backtesting framework built on the Swarms framework for automated trading strategy validation and optimiza…
 - [Baseline-Agent](https://github.com/Bloodrock-AI/baseline-agent) - This is a simple AI Agent used to test the Bloodrock CORE Benchmark.
 - [Botsharp-Ui](https://github.com/SciSharp/BotSharp-UI) - Build, test and manage your AI Agents in the central place.
+- [BrowserBash](https://github.com/PramodDutta/browserbash) - Open-source CLI where an AI agent runs plain-English browser tests in a real Chrome and returns deterministic verdicts (assertions, exit codes); ships an MCP server so coding agents validate their own UI work [github](https://github.com/PramodDutta/browserbash)
 - [Card_Games_For_Mcts-Ann_Ai](https://github.com/symbol-zy/Card_Games_for_MCTS-ANN_AI) - A simpified version of card game like bridge, made for testing MCTS+ANN Agents.
 - [Chat_Agent](https://github.com/YangShyrMing/Chat_Agent) - ... knowledge and intelligence of a human. Now this should pass the turning test of AI i.e. we all know an AI is the best if it can pass …
 - [Claude-Html-Test](https://github.com/SivaramAdi/claude-html-test) - A repository showcasing information about AI Agents
