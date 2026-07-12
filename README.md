@@ -1521,6 +1521,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Intellichunk](https://github.com/cckalen/intellichunk) - Go Based Lightweight RAG / LLM Tool with CLI + API
 - [Job-Webscraper](https://github.com/Prvargas/job-webscraper) - LLM API-Powered Job Listings Data Cleaning Tool - Showcase for Data Scientists
 - [Just-Eval](https://github.com/Re-Align/just-eval) - A simple GPT-based evaluation tool for multi-aspect, interpretable assessment of LLMs.
+- [KLinePic Agent API Examples](https://github.com/sher1096/klinepic-agent-api-examples) - OpenAPI-backed examples for agents that turn broker or exchange fills into annotated candlestick review-chart PNGs, with preflight and batch output and no trading signals.
 - [Labs-Ai-Tools-For-Devs](https://github.com/docker/labs-ai-tools-for-devs) - [Now with MCP Support] AI For Devs - Build, Share & Run agentic workflows. Just Docker. Just Markdown. BYO LLM
 - [Lang-Tools-Llm-Powered](https://github.com/odedwolff/lang-tools-LLM-powered) - language learning tools utilizing LLM APIs among others
 - [Langchain-Llm-Pdf-Qa](https://github.com/Ayyodeji/Langchain-LLM-PDF-QA) - This open-source project leverages cutting-edge tools and methods to enable seamless interaction with PDF documents. Powered by Langchain…
