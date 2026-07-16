@@ -1616,6 +1616,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web - Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [Unchained](https://github.com/aaronamelgar/unchained) - A Django-based tool for prompt engineering and LLM system evaluation.
 - [Useful-Generativeai-Tools-Repo](https://github.com/anishsingh20/Useful-GenerativeAI-Tools-Repo) - This repository has useful prompts for LLM and Generative AI models like Bard and ChatGPT
+- [VibeKit](https://vibekit.bot) - Build, host, and keep improving full-stack web apps from your phone by chatting with a persistent AI coding agent that runs on hosted containers (not your device). Each app gets its own agent and a live URL; bring your own Claude/OpenAI key or pay as you go. [website](https://vibekit.bot) | [ios](https://apps.apple.com/us/app/vibekit-agent-devops/id6760206636)
 - [Visuallm](https://github.com/gortibaldik/visuallm) - Visualization tool for various generation tasks on Language Models.
 - [WFGY](https://github.com/onestardao/WFGY) - An open-source framework for debugging and stress testing LLMs under long-horizon, high-tension text scenarios. Includes a TXT-based debugging app for structured sequences to identify where reasoning breaks and retrieval fails [github](https://github.com/onestardao/WFGY)
 - [Whitebox-Code-Gpt](https://github.com/Decron/Whitebox-Code-GPT) - Repository of instructions for Programming-specific GPT models
