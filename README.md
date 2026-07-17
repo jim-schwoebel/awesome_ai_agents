@@ -1025,6 +1025,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Strands Agents SDK](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code. [github](https://github.com/strands-agents/sdk-python)
 - [TeamHero](https://github.com/sagiyaacoby/TeamHero) - Open-source multi-agent orchestration platform with a built-in web dashboard, task lifecycle management, knowledge base, and autopilot mode. Manages role-based AI agent teams locally with zero cloud dependency. Built on Claude Code. [github](https://github.com/sagiyaacoby/TeamHero)
 - [Upsonic](https://github.com/upsonic/upsonic) - Reliable agent framework that supports MCP. [github](https://github.com/upsonic/upsonic)
+- [ValuePacket](https://github.com/KryptosAI/ValuePacket) - Permissionless payment protocol for autonomous AI agents. EIP-712 micropayment channels for agent-to-agent transactions across any framework. [github](https://github.com/KryptosAI/ValuePacket)
 - [Vectara-agentic](https://github.com/vectara/py-vectara-agentic) - Vectara-agentic is a framework for creating AI Assistants and agents using Vectara. [github](https://github.com/vectara/py-vectara-agentic)
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. [github](https://github.com/voltagent/voltagent)
 
