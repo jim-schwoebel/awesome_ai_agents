@@ -139,7 +139,7 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **Gaming Agents** - AI tools for game development or in-game interactive agents.  
 - **Lead Generation AI Agent** - Automate lead discovery and qualification for sales pipelines.  
 - **Marketing AI Agent** - Intelligent tools for creating and optimizing marketing campaigns.  
-- **Model Serving** - Platforms and tools to deploy AI models for real-time use.  
+- **Model Serving** - Platforms and tools to deploy AI models for real-time use (e.g. [JiuRelay](https://jiurelay.com) - free multi-model AI API relay, no registration).  
 - **Music AI Agents** - AI tools for composing, editing, or analyzing music (e.g. [suno](https://suno.ai)).  
 - **Operations AI Agents** - Streamline business operations with AI-driven automation.  
 - **Observability** - Monitor and analyze system performance with AI-powered insights.  
