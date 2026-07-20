@@ -1608,7 +1608,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Thoughtloom](https://github.com/tbiehn/thoughtloom) - ThoughtLoom is a powerful tool designed to foster creativity and enhance productivity through the use of LLMs directly from the command l…
 - [Tiger](https://github.com/Upsonic/Tiger) - No Crypto - Scam alarm - This project is not releated with any crypto currencies. | Neuralink for your AI Agents - LangChain - Autogen - …
 - [Toolcommander](https://github.com/NicerWang/ToolCommander) - Official implementation of "From Allies to Adversaries - Manipulating LLM Tool Scheduling through Adversarial Injection".
-- [Toolla](https://github.com/foomprep/toolla) - High level tool use for LLMs
+- [Toolla](https://github.com/startstuidopro/toolla) - High level tool use for LLMs
 - [Toolplanner](https://github.com/XiaoMi/toolplanner) - ToolPlanner - A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback
 - [Toolqa](https://github.com/night-chen/ToolQA) - ToolQA, a new dataset to evaluate the capabilities of LLMs in answering challenging questions with external tools. It offers two levels …
 - [Tools](https://github.com/buildownai/tools) - Monorepository of LLM based t AI ools provided by BuildOwn.AI
@@ -1622,6 +1622,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Widemem-Ai](https://github.com/remete618/widemem-ai) - Lightweight Python memory layer for LLM agents with importance scoring, temporal decay, 3-tier hierarchical memory, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS. [github](https://github.com/remete618/widemem-ai) | [website](https://widemem.ai) | [pypi](https://pypi.org/project/widemem-ai/)
 - [Wildguard](https://github.com/allenai/wildguard) - Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs
 - [Wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Closed-source hosted X data platform with 126 REST operations, webhooks, SDKs, and a 2-tool MCP server for AI agents. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp. [website](https://xquik.com) | [docs](https://docs.xquik.com)
 - [Xemantic-Ai-Tool-Schema](https://github.com/xemantic/xemantic-ai-tool-schema) - Kotlin multiplatform AI/LLM tool use (function calling) JSON Schema generator
 - [Yahoo-Finance-Llm-Agent](https://github.com/ojasskapre/yahoo-finance-llm-agent) - The Yahoo Finance Agent is an application that combines OpenAI's LLMs, the Yahoo Finance Python library, and LangChain's tools to provide…
 - [Zahara-Litellm](https://github.com/LiquidAdTech/Zahara-LiteLLM) - Gen AI tools
