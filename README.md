@@ -1393,6 +1393,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Othello-Fx](https://github.com/EudyContreras/Othello-FX) - Othello game framework made with JavaFX which can be use for testing Othello AI Agents.
 - [Pentesting-Ai](https://github.com/Lstalet04/Pentesting-AI) - Multi agent penetration testing AI
 - [Phoenix](https://github.com/Arize-ai/phoenix) - Open source tool for testing changes in AI agent or application
+- [Proof-Adjusted-Autonomy](https://github.com/pich/proof-adjusted-autonomy) - PAA: a metric and spec for how much AI agent work you can accept because it is independently proven - PAA = P(A) x P(C|A) x P(R|A,C) x P(T|A,C,R), with examples and a formal specification. [github](https://github.com/pich/proof-adjusted-autonomy)
 - [Pydantic-AI](https://github.com/pydantic/pydantic-ai) - Agent framework / shim to use Pydantic with LLMs, useful for ensuring LLM inputs/outputs have type safety [github](https://github.com/pydantic/pydantic-ai) | [docs](https://ai.pydantic.dev/)
 - [Plark_Ai_Public](https://github.com/montvieux/plark_ai_public) - ... provide a basis for more extensive, long-term, and cutting edge research. The test bed can be used as a basis to research the limits of
 - [Rag-System](https://github.com/thetom42/rag-system) - Test Project with Replit AI Agent
