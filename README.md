@@ -1061,6 +1061,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Ella](https://github.com/TencentQQGYLab/ELLA) - ELLA - Equip Diffusion Models with LLM for Enhanced Semantic Alignment
 - [Elm](https://github.com/NREL/elm) - ELM is a collection of utilities to apply Large Language Models (LLMs) to energy research.
 - [Empower-Functions](https://github.com/empower-ai/empower-functions) - GPT-4 level function calling models for real-world tool using use cases
+- [engRAM](https://github.com/MaxFreedomPollard/engRAM) - Fully offline, encrypted-at-rest vector memory store for AI agents, usable as an MCP server or a CLI/Python library. AEAD-encrypts everything at rest including embedding vectors, with RAM-resident hybrid vector + keyword search, per-record crypto-shred deletion, a hash-chained audit log, and optional keyfile two-factor unlock.
 - [Exaone-3.0](https://github.com/LG-AI-EXAONE/EXAONE-3.0) - Official repository for EXAONE built by LG AI Research
 - [Fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀
 - [Fauno-Italian-Llm](https://github.com/RSTLess-research/Fauno-Italian-LLM) - Get ready to meet Fauno - the Italian language model crafted by the RSTLess Research Group from the Sapienza University of Rome.
