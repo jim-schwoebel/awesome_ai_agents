@@ -1051,6 +1051,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Code-Interpreter](https://github.com/haseeb-heaven/code-interpreter) - An innovative open-source Code Interpreter with (GPT,Gemini,Claude,LLaMa) models.
 - [Codebase-For-Incremental-Learning-With-Llm](https://github.com/zzz47zzz/codebase-for-incremental-learning-with-llm) - [ACL2024] A Codebase for Incremental Learning with Large Language Models; Official released code for "Learn or Recall? Revisiting Increme…
 - [Codegen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+- [Compartment](https://github.com/MaxFreedomPollard/Compartment) - Fully offline, encrypted-at-rest vector memory store for AI agents, usable as an MCP server or a CLI/Python library. AEAD-encrypts everything at rest including embedding vectors, with RAM-resident hybrid vector + keyword search, per-record crypto-shred deletion, a hash-chained audit log, and optional keyfile two-factor unlock.
 - [Damo-Seallms](https://github.com/DAMO-NLP-SG/DAMO-SeaLLMs) - [ACL 2024 Demo] SeaLLMs - Large Language Models for Southeast Asia
 - [Datainf](https://github.com/ykwon0407/DataInf) - DataInf - Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models (ICLR 2024)
 - [Dellma](https://github.com/DeLLMa/DeLLMa) - Official Implementation of "DeLLMa - Decision Making Under Uncertainty with Large Language Models"
