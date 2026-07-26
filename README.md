@@ -524,6 +524,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench - Benchmarking Code Generation Towards AGI
 - [Bolaa](https://github.com/JimSalesforce/BOLAA) - benchmarking and orchestrating LLM-augmented Agents
 - [Chat-Agent-Evalution](https://github.com/khuzaimakt/Chat-Agent-Evalution) - Evaluating the LLM Chat Agent on multiple evaluation benchmarks.
+- [ClawBench](https://github.com/reacher-z/ClawBench) - Evaluates browser agents on everyday write-heavy tasks across live websites with five-layer traces [website](https://claw-bench.com/) | [paper](https://arxiv.org/abs/2604.08523)
 - [Comfybench](https://github.com/xxyQwQ/ComfyBench) - Implementation for the paper "ComfyBench - Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems".
 - [Debatellm](https://github.com/instadeepai/DebateLLM) - Benchmarking Multi-Agent Debate between Language Models for Truthfulness in Q&A.
 - [Dinersim](https://github.com/numbmelon/DinerSim) - DinerSim - A Restaurant Simulation Benchmark for LLM-Based Multi-Agent Cooperation
