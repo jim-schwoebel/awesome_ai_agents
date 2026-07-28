@@ -1456,6 +1456,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Awesome-Ai-Sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
 - [Awesome-Ai-Tools](https://github.com/eudk/awesome-ai-tools) - 🔴 VERY LARGE AI TOOL LIST! 🔴 Curated list of AI Tools - Updated December 2024
 - [Awesome-Aitools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
+- [BundleDex](https://bundledex.net) — Directory of Open Knowledge Format (OKF) bundles for AI agents. 409 bundles, MCP tools, API, llms.txt. [github](https://github.com/McClawdDigital/bundledex)
 - [Awesome-Langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [Awesome-Llm-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) - Awesome LLM compression research papers and tools.
 - [Awesome-Llm-Json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
