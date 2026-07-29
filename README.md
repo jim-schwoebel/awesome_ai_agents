@@ -1572,6 +1572,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Mql](https://github.com/shurutech/mql) - MQL tool is designed to generate SQL queries directly from natural language inputs.
 - [Nano-Bots](https://github.com/icebaker/nano-bots) - Repository for Nano Bots' Cartridges - small, AI-powered bots that can be easily shared as a single file, designed to support multiple pro…
 - [Nano-Bots-Api](https://github.com/icebaker/nano-bots-api) - HTTP API for Nano Bots - small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as…
+- [NitroTranslate](https://nitrotranslate.com) - Human translation service that AI agents can call and pay for via the Machine Payments Protocol (MPP). Web app + REST API.
 - [Notiongpt](https://github.com/Suiwan/notionGPT) - NotionGPT, a practical tool built on top of ChatGPT large language model, make it your note-taking assistant!
 - [Ollama-Mcp-Bridge](https://github.com/patruff/ollama-mcp-bridge) - Bridge between Ollama and MCP servers, enabling local LLMs to use Model Context Protocol tools
 - [Open-Webui-Tools](https://github.com/Haervwe/open-webui-tools) - a Repository of Open-WebUI tools to use with your favourite LLMs
