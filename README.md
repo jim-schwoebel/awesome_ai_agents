@@ -1982,3 +1982,4 @@ Tweet this to share on Twitter:
 📜 This repository is licensed under the [Apache 2.0](LICENSE).  
 
 Proudly open source to benefit the larger community, feel free to fork and extend!
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
