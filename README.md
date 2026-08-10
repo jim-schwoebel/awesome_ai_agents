@@ -1574,6 +1574,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Nano-Bots-Api](https://github.com/icebaker/nano-bots-api) - HTTP API for Nano Bots - small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as…
 - [Notiongpt](https://github.com/Suiwan/notionGPT) - NotionGPT, a practical tool built on top of ChatGPT large language model, make it your note-taking assistant!
 - [Ollama-Mcp-Bridge](https://github.com/patruff/ollama-mcp-bridge) - Bridge between Ollama and MCP servers, enabling local LLMs to use Model Context Protocol tools
+- [Open Index](https://github.com/DrDroidLab/open-index) - Open-source context layer for domain-specific agents with typed schemas, hybrid search, and read/write MCP tools.
 - [Open-Webui-Tools](https://github.com/Haervwe/open-webui-tools) - a Repository of Open-WebUI tools to use with your favourite LLMs
 - [Openai-Tools](https://github.com/tipani86/OpenAI-Tools) - Toolkit to get the most out of your OpenAI Account
 - [Pathology_Llm](https://github.com/JaesikKim/pathology_llm) - GPT-4 as decision support tool in oncology
