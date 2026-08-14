@@ -113,6 +113,7 @@ Here are some AI agents that you can use right now to massively improve your pro
 
 Below are some popular categories and examples of how AI agents can make an impact:
 
+- **Desktop AI Agents** - Control your Mac with AI. Clickyy shakes cursor to summon an agent that sees your screen and clicks, types, drags, and acts for you.
 - **Ads AI Agents** - Automate and optimize ad campaigns using intelligent AI agents.  
 - **Agentic IDE** - Integrated Development Environments tailored for building and managing AI agents.  
 - **AI Agent Management Platform** - Centralized tools for deploying, monitoring, and managing AI agents.  
