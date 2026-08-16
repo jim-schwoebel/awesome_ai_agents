@@ -675,6 +675,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 ### Deployment
 - [Accident-Simulation](https://github.com/chuajiesheng/accident-simulation) - Allocating resources to a accident scenario in real-time is a difficult challenge. This project aims to create a simulation playground wh…
 - [Advanced-Logic-Reason-Idea-And-Learning-Algorithms](https://github.com/Brionengine/Advanced-logic-reason-idea-and-learning-algorithms) - InfiniteMind is an open-source AI project designed to create an intelligent agent capable of learning from experiences, building a compre…
+- [Aeon](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs entirely on GitHub Actions - cron-scheduled Markdown skills across six coding-agent harnesses, self-healing (a health skill detects failures and a repair skill fixes them by PR), and fleet-replicating, with state persisted in the git repo.
 - [Agent-](https://github.com/drraghavendra/Agent-) - Create, deploy, and manage AI agents on Solana using our decentralized platform. Powered by Rig, Rust, and ARC tokens.
 - [Agent-Accelerator](https://github.com/j3bruins/agent-accelerator) - Create, deploy, and manage AI agents on Solana using our decentralized platform. Powered by Rig, Rust, and ARC tokens.
 - [Agent-Ops](https://github.com/rbisoi/agent-ops) - Developing an ai framework to deploy agents in production
