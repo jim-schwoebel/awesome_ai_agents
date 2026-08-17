@@ -1429,6 +1429,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 
 ### Tools
+- [UIZZE](https://uizze.com) - Anti-UI-slop quality gate for coding agents: the free MIT-licensed Skill and no-account preview catch concrete UI quality risks; full UIZZE adds live UI-reference search across 800,000+ real web and iOS screens [github](https://github.com/uizze/uizze) | [preview](https://uizze.com/mcp/preview)
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
