@@ -1770,6 +1770,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Ngx-I18Nsupport](https://github.com/martinroob/ngx-i18nsupport) - Some tooling to be used for Angular i18n workflows
 - [Nipype](https://github.com/nipy/nipype) - Workflows and interfaces for neuroimaging packages
 - [Notion-Search-Alfred-Workflow](https://github.com/wrjlewis/notion-search-alfred-workflow) - An Alfred workflow to search Notion with instant results
+- [Okto Pulse](https://github.com/OktoLabsAI/okto-pulse) - Local-first, spec-driven SDLC workbench that turns ideas into governed specs, sprints, and tasks with enforced gates for reviewer separation and test evidence, connected to AI coding agents via MCP [github](https://github.com/OktoLabsAI/okto-pulse) | [website](https://oktolabs.ai) | [docs](https://docs.oktolabs.ai)
 - [Ollama.Nvim](https://github.com/nomnivore/ollama.nvim) - A plugin for managing and integrating your ollama workflows in neovim.
 - [Oozie-Examples](https://github.com/dbist/oozie-examples) - sample oozie workflows
 - [Open-Workflows](https://github.com/amiaopensource/open-workflows) - List of open workflows and resources for A/V archiving
