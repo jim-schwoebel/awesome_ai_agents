@@ -671,6 +671,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Vlm_Databuilder](https://github.com/tensorsense/vlm_databuilder) - This SDK generates datasets for training Video LLMs from youtube videos.
 - [Voice datasets](https://github.com/jim-schwoebel/voice_datasets) - A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).
 - [Zero-Shot-Automatic-Annotation-Using-Llm-Generated-Datasets](https://github.com/ranzosap/Zero-Shot-Automatic-Annotation-using-LLM-Generated-Datasets) - Best.pt is the YOLO11n-seg model trained on LLM generated Images where we automatically labelled the apple masks using YOLO11-SAMv2 fusion approach on zero shot.
+- [MiniMax H3 1K Prompt Dataset](https://neta.art/use-cases/en/h3-1000-prompt-list) - Curated 1K text-to-video prompts: 3-field structure anatomy, 10 reusable prompts, H3 vs. peer comparison.
 
 ### Deployment
 - [Accident-Simulation](https://github.com/chuajiesheng/accident-simulation) - Allocating resources to a accident scenario in real-time is a difficult challenge. This project aims to create a simulation playground wh…
