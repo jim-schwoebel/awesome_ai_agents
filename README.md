@@ -1593,6 +1593,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Repo-To-Text](https://github.com/kirill-markin/repo-to-text) - Convert a repository structure and its contents into a single text file, including the tree output and file contents in markdown code blo…
 - [Resume_Render_From_Job_Description](https://github.com/AIHawk-FOSS/resume_render_from_job_description) - Resume_Builder_AIHawk is a powerful Python tool that allows you to automatically customize your resume based on a job URL, ensuring it pe…
 - [Rome-Llm](https://github.com/ajn313/ROME-LLM) - Tools for Recurrent Optimization via Machine Editing and related benchmarks
+- [Sdp](https://github.com/dimamak/sdp) - Self-hosted daily social poster that drafts a LinkedIn or X post from your Claude Code sessions, screenshots and messages, with Approve/Edit/Skip in a private Telegram bot before anything publishes.
 - [Selenium-Agent](https://github.com/ahmadrosid/selenium-agent) - LLM agent using selenium as a tool. Have fun!
 - [Simple-Llm-Exporter](https://github.com/realityinspector/simple-llm-exporter) - a tool to export entire scripts to a text file with a file tree and description, for exporting to llm's
 - [SkillLite](https://github.com/EXboys/skilllite) - A lightweight, zero-dependency runtime for the agentsskills protocol that enables AI agents to securely execute portable skills locally. Written in Rust with native OS sandboxing, millisecond cold starts, single binary deployment [github](https://github.com/EXboys/skilllite)
