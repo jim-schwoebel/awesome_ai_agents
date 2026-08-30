@@ -27,6 +27,7 @@ Dive in, learn, collaborate, and build the next generation of AI agents.
 
 🎉 *Let's build a thriving AI agent ecosystem together!*
 
+- [ViBo-memory](https://github.com/vnbochkarev-netizen/ViBo-memory) - Persistent memory for AI agents: semantic search, L1/L2/L3 encryption, 50-150x token savings on context
 ---
 
 ## 🎉 Upcoming Event: Agents Connect Conference
