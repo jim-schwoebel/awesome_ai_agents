@@ -145,6 +145,7 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **Observability** - Monitor and analyze system performance with AI-powered insights.  
 - **Personal Assistant** - AI assistants to manage personal schedules, tasks, and reminders.  
 - **Productivity** - Tools designed to enhance productivity through AI automation.  
+- **[Stellary](https://stellary.co)** - AI-native project piloting and project management with governed agent missions.  
 - **Recruiting AI Agents** - Streamline hiring processes with AI for screening and sourcing candidates.  
 - **Research** - AI-driven tools to assist with academic, market, or technical research.  
 - **Sales AI Agent** - Automate sales tasks like prospecting and client follow-ups with AI. 
