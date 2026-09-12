@@ -74,6 +74,7 @@ This is a fully virtual event for 2025. In-person format coming in future years.
 ---
 
 ## Table of Contents
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [Using Agents](#using)
   - [Applications](#applications)
 - [Learning Agents](#learning)
