@@ -1389,6 +1389,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Networkattacksimulator](https://github.com/Jjschwartz/NetworkAttackSimulator) - An environment for testing AI pentesting agents against a simulated network.
 - [Nexus](https://github.com/cxbxmxcx/Nexus) - AI Agent Nexus is an open-source platform for developing, testing, and hosting AI Agents, built with Streamlit and Gradio. It offers a us…
 - [O1_Agent_Test](https://github.com/alexmoses/o1_Agent_Test) - Building a multi-agent AI program
+- [Orcareplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - records an agent run at the model-provider boundary from outside the process, then replays it offline so the same run re-executes with no model called — a regression test for an agent that costs nothing to run. [github](https://github.com/Continuum-AI-Corp/OrcaReplay)
 - [Orchestrai](https://github.com/samshapley/OrchestrAI) - A framework for building and testing custom autonomous agents.
 - [Othello-Fx](https://github.com/EudyContreras/Othello-FX) - Othello game framework made with JavaFX which can be use for testing Othello AI Agents.
 - [Pentesting-Ai](https://github.com/Lstalet04/Pentesting-AI) - Multi agent penetration testing AI
