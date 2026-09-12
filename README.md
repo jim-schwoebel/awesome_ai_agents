@@ -1017,6 +1017,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Microsoft Magentic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) - A Generalist Multi-Agent System for Solving Complex Tasks.
 - [Modus](https://github.com/hypermodeinc/modus) - An open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language). [github](https://github.com/hypermodeinc/modus)
 - [NeuroLink](https://github.com/juspay/neurolink) - TypeScript-first agent framework with multi-step agentic loops, tool execution control, persistent memory (Redis/SQLite/S3), HITL workflows, MCP client integration, and 13 LLM providers. Production-proven at enterprise scale.
+- [Nexus-Agent](https://github.com/parkain707/nexus-agent) - Open-source autonomous AI software engineering agent featuring self-healing ReAct loops, AST pre-validation guardrails, persistent time-travel SQLite rollback, and dual Rich CLI & Web UI. [github](https://github.com/parkain707/nexus-agent) | [demo](https://should-busy-repairs-metres.trycloudflare.com)
 - [OpenAI Swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [Phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 - [Pinchwork](https://github.com/anneschuth/pinchwork) - Open-source agent-to-agent task marketplace where agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations. [github](https://github.com/anneschuth/pinchwork) | [website](https://pinchwork.dev)
@@ -1903,6 +1904,7 @@ Thanks to all the amazing contributors who have helped build and improve this li
 - [@minhoyoo-iotrust](https://github.com/minhoyoo-iotrust) — WAIaaS
 - [@murdore](https://github.com/murdore) — NeuroLink
 - [@NikitaDmitrieff](https://github.com/NikitaDmitrieff) — auto-co
+- [@parkain707](https://github.com/parkain707) — Nexus-Agent
 - [@pinchwork](https://github.com/pinchwork) — Pinchwork
 - [@PubliusAu](https://github.com/PubliusAu) — Tool/benchmark additions
 - [@Quinnod345](https://github.com/Quinnod345) — context-engine-ai
