@@ -141,7 +141,8 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **Marketing AI Agent** - Intelligent tools for creating and optimizing marketing campaigns.  
 - **Model Serving** - Platforms and tools to deploy AI models for real-time use.  
 - **Music AI Agents** - AI tools for composing, editing, or analyzing music (e.g. [suno](https://suno.ai)).  
-- **Operations AI Agents** - Streamline business operations with AI-driven automation.  
+- **Operations AI Agents** - Streamline business operations with AI-driven automation.
+- **[Solgrok](https://github.com/LMajster/sgrok)** - Autonomous Solana creator-ops AI agent that promotes $SGROK, claims Bags creator fees, and sweeps rewards 24/7 ([site](https://lmajster.github.io/sgrok/), [Bags](https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS)).  
 - **Observability** - Monitor and analyze system performance with AI-powered insights.  
 - **Personal Assistant** - AI assistants to manage personal schedules, tasks, and reminders.  
 - **Productivity** - Tools designed to enhance productivity through AI automation.  
