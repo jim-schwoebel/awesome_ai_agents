@@ -1856,6 +1856,8 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [Youtrack-Workflows](https://github.com/JetBrains/youtrack-workflows) - YouTrack Custom Workflow Repository
 - [Zapier](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 - [Zorow](https://github.com/openmainframeproject/zorow) - z/OS Open Repository of Workflows (zorow), is an open source community dedicated to contributing and collaborating on z/OSMF workflows. 
 
 
