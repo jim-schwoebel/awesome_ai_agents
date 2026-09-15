@@ -1118,6 +1118,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Malayallm](https://github.com/VishnuPJ/MalayaLLM) - A Continually LoRA PreTrained and FineTuned 7B Llama-2 Indic model for Malayalam Language.
 - [Mammoth](https://github.com/TIGER-AI-Lab/MAmmoTH) - Code and data for "MAmmoTH - Building Math Generalist Models through Hybrid Instruction Tuning" (ICLR 2024)
 - [Mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+- [Myc](https://github.com/aistastudio/myc) - Local task-and-memory layer for coding agents (Claude Code, Codex, opencode, Kimi): task queue with dependencies and atomic claims, an oplog of decisions with hybrid search, and a PreCompact hook that saves the session before context compaction; Bun + SQLite, no network calls, no API key.
 - [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps.
 - [Mlx-Llm](https://github.com/riccardomusmeci/mlx-llm) - Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
 - [Mlx-Vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
