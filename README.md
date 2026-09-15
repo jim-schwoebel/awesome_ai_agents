@@ -569,7 +569,8 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 ### Datasets 
 - [Aart-Ai-Safety-Dataset](https://github.com/xxxx-dddd/aart-ai-safety-dataset) - AART - AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications
-- [Abstractive-Summarizer-On-Cnn_Dailymail-Dataset.](https://github.com/pkounoudis/Abstractive-Summarizer-on-cnn_dailymail-dataset.) - A small T5 LLM finetuned for text summarization.
+- [Abstractive-Summarizer-On-Cnn_Dailymail-Dataset.](https://github.com/pkounoudis/Abstractive-Summarizer-on-cnn_dailymail-dataset.) - A small T5 LLM finetuned for text summarization.
+- [Ai-Agent-Pricing-Data](https://github.com/Aryan2193/ai-agent-pricing-data) - Open data (CC BY 4.0): current prices, billing units and monthly price history since January 2024 for 16 AI agent and workflow automation platforms, verified against vendor pages and Wayback Machine snapshots.
 - [Airline-Review-Llm-Chatbot](https://github.com/rohan-deswal/airline-review-llm-chatbot) - Using a Large Language Model (LLM) to develop a chatbot that gives insights about this dataset - https://www.kaggle.com/datasets/juhibhoja…
 - [Alpaca-Chinese-Dataset](https://github.com/carbonz0/alpaca-chinese-dataset) - alpaca中文指令微调数据集
 - [Arize AX](https://arize.com/generative-ai) - Arize AX is a tool that helps you use datasets to run experiments, with several example notebooks to get started. | [website](https://arize.com) [docs](https://arize.com/docs/ax) | [github](https://github.com/Arize-ai) | [Slack](https://join.slack.com/t/arize-ai/shared_invite/zt-3iu5bvnzr-2e~VFHw2Et4MM5rMsK599g)
