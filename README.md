@@ -1403,6 +1403,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Rpm-Ai-Agent](https://github.com/teldridge11/RPM-AI-Agent) - AI Agent for solving Raven's Progressive Matrices as a test of general intelligence
 - [Rpm-Ai-Agent](https://github.com/horkays/RPM-AI-Agent) - An AI agent designed to solve the Raven's Progressive Matrices human intelligence tests, written in Python
 - [Sam](https://github.com/vishalmysore/sam) - Autonomous Agent or Large Action Model Implementation in Java. Selenium and AI integration, AI based validations for tests. UI Validation…
+- [Self-Auditing-Agent](https://github.com/simin-yuan/self-auditing-agent) - A public audit log for an AI agent's own work: every claim ships a runnable command a third party can execute to verify it, and the included gatecheck tool mutates the project's own validator to report which mutations it fails to catch. [github](https://github.com/simin-yuan/self-auditing-agent)
 - [Snakeai-Test](https://github.com/maxolib/SnakeAI-Test) - AI learning game using ML-agents for Unity
 - [Stock_Forecast_Ai_Agent](https://github.com/john2408/stock_forecast_ai_agent) - This is a small app to test the AI Agents functionallity for forecasting purposes. Mainly focusing on function calling.
 - [Swarmgo](https://github.com/prathyushnallamothu/swarmgo) - SwarmGo is a Go package that allows you to create AI agents capable of interacting, coordinating, and executing tasks. Inspired by OpenAI…
