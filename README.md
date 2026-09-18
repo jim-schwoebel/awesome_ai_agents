@@ -696,6 +696,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Ai-Agent-For-Deployment](https://github.com/yunwei37/AI-agent-for-deployment) - No description available
 - [Ai-Agent-Lab](https://github.com/Zeeshan138063/ai-agent-lab) - AI Agent Lab - An open-source repository to build, test, and deploy AI agents using Python, with examples and modular design.
 - [Ai-Agent-Report-Maker-Deploy](https://github.com/ezemriv/AI-Agent-Report-Maker-Deploy) - A streamlined version of the AI-Agent-Report-Maker, focusing exclusively on the agent functionality for deployment with Gradio.
+- [Ai-Agent-Templates](https://github.com/harsh-matchmyflight/ai-agent-templates) - Free MIT templates for two revenue-critical small-business agents: a Twilio missed-call → SMS text-back webhook (Node 20, zero deps) and a CSV-driven no-show reminder agent with 24h/2h/+30m messages and pluggable Twilio/WhatsApp senders (Python 3.11). Both tested and deployable to Railway/Render/cron.
 - [Ai-Agent-Ui](https://github.com/Linzo99/ai-agent-ui) - UI Template for a chatbot agent created Llama Deploy (LlamaIndex Workflow)
 - [Ai-Agents](https://github.com/Bilalkhan4086/ai-agents) - This repo is for learning how to deploy ai agent with langgraph on langgraph cloud.
 - [Ai-Agents-For-Networking](https://github.com/mkular/AI-Agents-For-Networking) - AI agents for network deployment, configuration and monitoring
