@@ -74,6 +74,7 @@ This is a fully virtual event for 2025. In-person format coming in future years.
 ---
 
 ## Table of Contents
+- [MagicKit](https://github.com/kaketiti/magickit) - Free AI toolbox with API for image generation, writing, video. Open-source, no auth required.
 - [Using Agents](#using)
   - [Applications](#applications)
 - [Learning Agents](#learning)
