@@ -1625,6 +1625,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Xemantic-Ai-Tool-Schema](https://github.com/xemantic/xemantic-ai-tool-schema) - Kotlin multiplatform AI/LLM tool use (function calling) JSON Schema generator
 - [Yahoo-Finance-Llm-Agent](https://github.com/ojasskapre/yahoo-finance-llm-agent) - The Yahoo Finance Agent is an application that combines OpenAI's LLMs, the Yahoo Finance Python library, and LangChain's tools to provide…
 - [Zahara-Litellm](https://github.com/LiquidAdTech/Zahara-LiteLLM) - Gen AI tools
+- [Zaru](https://github.com/100monkeys-ai/zaru-cli) - Open-source (Apache-2.0) Rust terminal harness for LLM agents with a visible execution loop, a permission model and declared validators; pre-alpha, not yet installable.
 
 ### Workflows
 - [Abc-Classroom](https://github.com/earthlab/abc-classroom) - Tools to automate github classroom and autograding workflows
