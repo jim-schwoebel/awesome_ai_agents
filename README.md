@@ -1028,6 +1028,8 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Vectara-agentic](https://github.com/vectara/py-vectara-agentic) - Vectara-agentic is a framework for creating AI Assistants and agents using Vectara. [github](https://github.com/vectara/py-vectara-agentic)
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. [github](https://github.com/voltagent/voltagent)
 
+- [Kortix](https://github.com/kortix-ai/suna) - The open-source AI Management System: your agents, their skills, company memory and every connector live in one git repo you own. Any model with your own keys; self-hosted or managed cloud. [website](https://kortix.com) | [open-source agent platform guide](https://opensourceclaudecowork.com)
+
 ### LLM Models
 - [42Dot_Llm](https://github.com/42dot/42dot_LLM) - 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to …
 - [Ai-Llm-Comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
