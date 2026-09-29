@@ -1580,6 +1580,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Pentestgpt](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [Plasmate](https://github.com/plasmate-labs/plasmate) - A browser engine built for AI agents that compiles HTML into a Semantic Object Model (SOM), providing 10x token compression vs raw HTML. V8 JS rendering, CDP compatibility, authenticated browsing, MCP server [github](https://github.com/plasmate-labs/plasmate) | [docs](https://docs.plasmate.app)
 - [Prelude](https://github.com/aerugo/prelude) - A very simple tool to build LLM prompts from your code repositories.
+- [Prismix](https://prismix.dev) - Live status dashboard for 75+ AI services, curated AI news, and a directory of 500+ MCP servers with install commands — one free hub instead of a dozen tabs. [website](https://prismix.dev)
 - [Prophetfuzz](https://github.com/NASP-THU/ProphetFuzz) - [CCS'24] An LLM-based, fully automated fuzzing tool for option combination testing.
 - [Purplellama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [Qlora-Llm](https://github.com/michaelnny/QLoRA-LLM) - A simple custom QLoRA implementation for fine-tuning a language model (LLM) with basic tools such as PyTorch and Bitsandbytes, completely…
