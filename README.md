@@ -1430,6 +1430,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 ### Tools
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
+- [Connectmeguru-Mcp](https://github.com/vineetgoyalhuf/connectmeguru-mcp) - Official MCP server enabling AI agents to search, validate, and purchase international prepaid travel eSIM data plans across 190+ countries in-chat.
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
 - [Agent-Manager-Skill](https://github.com/fractalmind-ai/agent-manager-skill) - tmux + Python agent lifecycle manager for running multiple CLI AI agents (start/stop/monitor/assign) with cron-friendly scheduling.
