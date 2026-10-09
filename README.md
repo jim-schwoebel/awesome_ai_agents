@@ -1269,6 +1269,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Fast-Llm-Security-Guardrails](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - The fastest && easiest LLM security guardrails for AI Agents and applications.
 - [Fetchai](https://github.com/Harshpreetkaur98/FetchAI) - uAgents is a Python library by Fetch.ai for creating autonomous AI agents. It supports easy agent management, blockchain connectivity, an…
 - [Hauth](https://github.com/vaniiiii/hAUTH) - hAUTH is a security middleware solution that provides human oversight for AI agents.
+- [Impri](https://github.com/sekera-radim/impri) - Approval inbox for AI agents: agents propose actions via MCP or REST, a human approves/edits/rejects from web, Slack, Telegram or phone; open-core MIT, self-hostable.
 - [Invariant](https://github.com/invariantlabs-ai/invariant) - Helps you build better AI agents through debuggable unit testing
 - [Kevlar-Anti-Leak-System-Prompts](https://github.com/CyberAlbSecOP/KEVLAR-Anti-Leak-System-Prompts) - Bullet-proof your custom GPT system prompt security with KEVLAR, the ultimate prompt protector against rules extraction, prompt injection…
 - [Linux-Security-Agent](https://github.com/microaisecurity/linux-security-agent) - Micro AI security agent
