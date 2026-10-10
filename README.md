@@ -1429,6 +1429,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 
 ### Tools
+- [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - Copy-paste SKILL.md specialists for coding agents. Free, MIT.
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
