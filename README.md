@@ -1027,6 +1027,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Upsonic](https://github.com/upsonic/upsonic) - Reliable agent framework that supports MCP. [github](https://github.com/upsonic/upsonic)
 - [Vectara-agentic](https://github.com/vectara/py-vectara-agentic) - Vectara-agentic is a framework for creating AI Assistants and agents using Vectara. [github](https://github.com/vectara/py-vectara-agentic)
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. [github](https://github.com/voltagent/voltagent)
+- [three.ws](https://github.com/nirholas/three.ws) - Open-source platform for 3D AI agents: rigged, animated avatars with an LLM brain, memory and a wallet, embeddable via an `<agent-3d>` web component, plus a remote MCP server.
 
 ### LLM Models
 - [42Dot_Llm](https://github.com/42dot/42dot_LLM) - 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to …
