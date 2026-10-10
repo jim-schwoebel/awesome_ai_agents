@@ -1432,6 +1432,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
+- [AgentAddress](https://agentaddress.dev) - A return address for AI agents: one unauthenticated API call provisions a task-scoped resource with a write-only HTTPS inbox, an inbound email identity, and an ordered event queue with cursors, so a later agent run can retrieve callbacks after the original process exits. [github](https://github.com/zkarimi22/agentaddress-agents) | [mcp](https://agentaddress.dev/api/mcp)
 - [Agent-Manager-Skill](https://github.com/fractalmind-ai/agent-manager-skill) - tmux + Python agent lifecycle manager for running multiple CLI AI agents (start/stop/monitor/assign) with cron-friendly scheduling.
 - [Acte](https://github.com/j66n/acte) - A framework to build GUI-like Agent Tools, enhancement to Function Calling of LLM AI.
 - [Agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260…
