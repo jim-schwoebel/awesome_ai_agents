@@ -1281,6 +1281,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Netsecgame](https://github.com/stratosphereips/NetSecGame) - An environment simulation for networks security tasks for development and testing AI based agents. Part of AI Dojo project
 - [Owasp-Agentic-Ai](https://github.com/precize/OWASP-Agentic-AI) - OWASP Top 10 for Agentic AI (AI Agent Security) - Pre-release version
 - [PolicyLayer](https://github.com/PolicyLayer/PolicyLayer) - Non-custodial spending controls for AI agents with crypto wallets. Enforces daily spending limits, per-transaction caps, recipient whitelists, and rate limiting without holding private keys. Prevents wallet drains from bugs, prompt injection, or infinite loops. [website](https://policylayer.com) | [npm](https://www.npmjs.com/package/@policylayer/sdk)
+- [Quilzo](https://github.com/quilzo/quilzo) - Self-hosted control plane that gives every agent an identity, a declared policy, a budget and a signed record, asks a person before the actions that matter, and holds outbound calls once a run holding private data has read untrusted text
 - [Rgs](https://github.com/MangelZabalaDevelop/RGS) - Report Generative Security Tool developed for the Generative AI Agents Developer Contest organized by NVIDIA and LangChain.
 - [Secad](https://github.com/gideonaina/secad) - SECAD is an agentic, AI-powered security workflow augmentation application.
 - [Security-Ai-Agent-Brama](https://github.com/oborys/security-ai-agent-brama) - No description available
