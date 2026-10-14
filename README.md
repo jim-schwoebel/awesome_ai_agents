@@ -1522,6 +1522,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Job-Webscraper](https://github.com/Prvargas/job-webscraper) - LLM API-Powered Job Listings Data Cleaning Tool - Showcase for Data Scientists
 - [Just-Eval](https://github.com/Re-Align/just-eval) - A simple GPT-based evaluation tool for multi-aspect, interpretable assessment of LLMs.
 - [Labs-Ai-Tools-For-Devs](https://github.com/docker/labs-ai-tools-for-devs) - [Now with MCP Support] AI For Devs - Build, Share & Run agentic workflows. Just Docker. Just Markdown. BYO LLM
+- [Latchkey](https://latchkey.dev) - Self-healing GitHub Actions runners with a CLI and MCP server so coding agents can run, read and fix CI
 - [Lang-Tools-Llm-Powered](https://github.com/odedwolff/lang-tools-LLM-powered) - language learning tools utilizing LLM APIs among others
 - [Langchain-Llm-Pdf-Qa](https://github.com/Ayyodeji/Langchain-LLM-PDF-QA) - This open-source project leverages cutting-edge tools and methods to enable seamless interaction with PDF documents. Powered by Langchain…
 - [Langkit](https://github.com/whylabs/langkit) - 🔍 LangKit - An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safe…
