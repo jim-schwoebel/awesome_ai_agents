@@ -1982,3 +1982,5 @@ Tweet this to share on Twitter:
 📜 This repository is licensed under the [Apache 2.0](LICENSE).  
 
 Proudly open source to benefit the larger community, feel free to fork and extend!
+
+- **[M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server)** - Autonomous HTTP 402 (L402 Bitcoin Lightning & x402 Base/Solana USDC) M2M API Gateway, Remote MCP Server (`https://citizens-collection-princess-dozens.trycloudflare.com/mcp`), A2A Agent Card (`http://32.197.245.10:3001/.well-known/agent-card.json`), and Task Clearinghouse for AI Agents with 100/100 Verified SLA.
