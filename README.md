@@ -1605,6 +1605,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Structgenius](https://github.com/jaadbarg/StructGenius) - Download boilerplate file structure of any tree diagram you give
 - [Tapir](https://github.com/ephes/tapir) - Some llm tools
 - [Textcloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
+- [The Agent Stack](https://www.theagentstack.dev) - Free directory of 66 AI agent infrastructure tools (sandboxes, browsers, memory, email, voice, payments, auth, observability) with side-by-side pricing and open-source comparison tables [website](https://www.theagentstack.dev)
 - [Thoughtloom](https://github.com/tbiehn/thoughtloom) - ThoughtLoom is a powerful tool designed to foster creativity and enhance productivity through the use of LLMs directly from the command l…
 - [Tiger](https://github.com/Upsonic/Tiger) - No Crypto - Scam alarm - This project is not releated with any crypto currencies. | Neuralink for your AI Agents - LangChain - Autogen - …
 - [Toolcommander](https://github.com/NicerWang/ToolCommander) - Official implementation of "From Allies to Adversaries - Manipulating LLM Tool Scheduling through Adversarial Injection".
