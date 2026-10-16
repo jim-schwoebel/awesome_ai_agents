@@ -1982,3 +1982,5 @@ Tweet this to share on Twitter:
 📜 This repository is licensed under the [Apache 2.0](LICENSE).  
 
 Proudly open source to benefit the larger community, feel free to fork and extend!
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Agent / Skill](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure agent, `SKILL.md`, and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources and 0%-fee Morpho Blue flash-loan execution.
