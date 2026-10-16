@@ -1486,6 +1486,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Code-Interpreter-Api](https://github.com/leezhuuuuu/Code-Interpreter-Api) - Committed to being the best code interpreter in the world.
 - [Comfyui-Llm-Tools](https://github.com/pridkett/ComfyUI-llm-tools) - Helpful nodes for working with LLMs inside of ComfyUI
 - [Companion](https://github.com/rapmd73/Companion) - An AI-powered Discord bot blending playful conversation with smart moderation tools, adding charm and order to your server.
+- [Concord MCP](https://github.com/Get-Concord-AI/concord-mcp) - Local-first shared work-state for coding agents: presence, claims, messaging, handoffs and review packets so several agents can work in one repo without colliding.
 - [Conversational-Agent-With-Qa-Tool](https://github.com/CharlesSQ/conversational-agent-with-QA-tool) - A custom chat agent implemented using Langchain, gpt-3.5 and Pinecone. Implements memory management for context, a custom prompt template…
 - [Cuesubplot](https://github.com/kleer001/cuesubplot) - procedural ai prompts and results
 - [Curategpt](https://github.com/monarch-initiative/curategpt) - LLM-driven curation assist tool
