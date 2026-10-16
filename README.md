@@ -1501,6 +1501,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Emergent](https://github.com/kyb3r/emergent) - An implementation of long term memory and external tools for LLMs
 - [Empower-Functions](https://github.com/empower-ai/empower-functions) - GPT-4 level function calling models for real-world tool using use cases
 - [Erag](https://github.com/EdwardDali/erag) - an AI interaction tool with RAG hybrid search, conversation context, web content processing and structured data analysis with LLM / GPT
+- [ERIUS PHONE MCP](https://github.com/Protremix/erius-phone-mcp) - MIT-licensed MCP tool for agents to read and control persistent cloud Android phones, manage apps and retrieve crash logs. Service in early access, by invitation.
 - [Flotorch](https://github.com/FissionAI/FloTorch) - FloTorch is an open-source tool for optimizing Generative AI workloads on AWS. It automates RAG proof-of-concept development with feature…
 - [Flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
 - [Formfill](https://github.com/wdhorton/formfill) - FormFill is a CLI tool that uses LLMs to automatically fill out PDF forms.
