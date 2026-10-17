@@ -505,6 +505,7 @@ I also recommend this [YouTube Playlist](https://www.youtube.com/playlist?list=P
 #### Cookbooks
 - [AI Agent's cookbook by LlamaIndex](https://docs.llamaindex.ai/en/stable/use_cases/agents/)
 - [Langchain's agent building cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
+- [Agents in the Wild: real AI agent use cases with sources and starting prompts](https://agentsinthewildai.com)
 
 ---
 
