@@ -503,6 +503,7 @@ There are so many places to learn how to build AI agents! Here are some course a
 I also recommend this [YouTube Playlist](https://www.youtube.com/playlist?list=PLnH2pfPCPZsKhlUSP39nRzLkfvi_FhDdD), which has a range of tutorials.
 
 #### Cookbooks
+- [Agent Cookbook](https://agentcookbook.dev) - A free directory of 75 real AI agent setups, including 20 that people made money with, each with the source link and the prompt and steps to copy.
 - [AI Agent's cookbook by LlamaIndex](https://docs.llamaindex.ai/en/stable/use_cases/agents/)
 - [Langchain's agent building cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
 
