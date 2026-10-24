@@ -1596,6 +1596,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Selenium-Agent](https://github.com/ahmadrosid/selenium-agent) - LLM agent using selenium as a tool. Have fun!
 - [Simple-Llm-Exporter](https://github.com/realityinspector/simple-llm-exporter) - a tool to export entire scripts to a text file with a file tree and description, for exporting to llm's
 - [SkillLite](https://github.com/EXboys/skilllite) - A lightweight, zero-dependency runtime for the agentsskills protocol that enables AI agents to securely execute portable skills locally. Written in Rust with native OS sandboxing, millisecond cold starts, single binary deployment [github](https://github.com/EXboys/skilllite)
+- [Skill-Md](https://github.com/ykzeng-yale/skill-md) - Open spec and zero-dependency validator for SKILL.md, a portable Markdown format that gives AI agents repeatable skills; catches dropped or out-of-order steps before an agent replays them.
 - [Smart_Fault_Injector_Llm](https://github.com/JiaHuann/Smart_Fault_Injector_LLM) - Intelligent kernel error injection/testing tool based on large model and eBPF.(基于大模型和eBPF的智能化kernel错误注入、测试工具)
 - [Speech-To-Code](https://github.com/dharllc/speech-to-code) - llm assisted development tools
 - [Speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
