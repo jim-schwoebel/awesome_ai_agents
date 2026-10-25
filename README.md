@@ -1576,6 +1576,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Ollama-Mcp-Bridge](https://github.com/patruff/ollama-mcp-bridge) - Bridge between Ollama and MCP servers, enabling local LLMs to use Model Context Protocol tools
 - [Open-Webui-Tools](https://github.com/Haervwe/open-webui-tools) - a Repository of Open-WebUI tools to use with your favourite LLMs
 - [Openai-Tools](https://github.com/tipani86/OpenAI-Tools) - Toolkit to get the most out of your OpenAI Account
+- [Orbi](https://github.com/orbi-build/orbi) - Open-source (AGPL-3.0) AI GitHub App that turns GitHub issues into reviewed, merged pull requests: it writes the change, runs your CI checks, and iterates on review comments. Self-hostable or hosted. [github](https://github.com/orbi-build/orbi) | [website](https://orbi.build/?ref=awesome_ai_agents)
 - [Pathology_Llm](https://github.com/JaesikKim/pathology_llm) - GPT-4 as decision support tool in oncology
 - [Pentestgpt](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [Plasmate](https://github.com/plasmate-labs/plasmate) - A browser engine built for AI agents that compiles HTML into a Semantic Object Model (SOM), providing 10x token compression vs raw HTML. V8 JS rendering, CDP compatibility, authenticated browsing, MCP server [github](https://github.com/plasmate-labs/plasmate) | [docs](https://docs.plasmate.app)
