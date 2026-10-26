@@ -1434,6 +1434,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
 - [Agent-Manager-Skill](https://github.com/fractalmind-ai/agent-manager-skill) - tmux + Python agent lifecycle manager for running multiple CLI AI agents (start/stop/monitor/assign) with cron-friendly scheduling.
 - [Acte](https://github.com/j66n/acte) - A framework to build GUI-like Agent Tools, enhancement to Function Calling of LLM AI.
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - MIT-licensed local CLI and stdio MCP payment tools for AI agents, with owner-set limits and operation receipts on macOS Apple Silicon.
 - [Agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260…
 - [Agentgpt-Llm-Tools](https://github.com/GautamSharda/AgentGPT-LLM-Tools) - AgentGPT allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable
 - [Agentguard](https://github.com/bmdhodl/agent47) - Zero-dependency runtime guardrails for AI agents with loop detection, budget enforcement, cost tracking, and deterministic replay. [github](https://github.com/bmdhodl/agent47) | [pypi](https://pypi.org/project/agentguard47/)
