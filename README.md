@@ -770,6 +770,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Kubernetesqueryagent](https://github.com/soni-ratnesh/KubernetesQueryAgent) - An AI agent that interacts with a Kubernetes cluster to answer queries about its deployed applications.
 - [Letta-Deepseek](https://github.com/mahawi1992/letta-deepseek) - Advanced multi-agent system built with Letta AI and DeepSeek, featuring memory optimization and Lightning AI deployment.
 - [Libertai-Agents](https://github.com/Libertai/libertai-agents) - Framework to create and deploy confidential & decentralized AI Agents.
+- [Light Cloud MCP Server](https://github.com/light-cloud-com/mcp-server) - MCP server that lets an agent sign up for Light Cloud, deploy apps from GitHub or a local folder, and manage databases and domains. [github](https://github.com/light-cloud-com/mcp-server)
 - [Llama-Latte](https://github.com/im-anhat/llama-latte) - AI-powered coffee shop app built with React Native, featuring Llama 3 model integration, Retrieval-Augmented Generation (RAG) for persona…
 - [Llm-Research-Backend-Django](https://github.com/muhammadnasif/llm-research-backend-django) - This is the django project for deploying the LLM Research of Conversational AI Agent for test purpose.
 - [Lunaai](https://github.com/Eugeene1337/LunaAI) - Luna is a powerful multi-agent simulation framework designed to create, deploy, and manage autonomous AI agents. Built with TypeScript, i…
