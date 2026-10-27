@@ -148,7 +148,8 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **Recruiting AI Agents** - Streamline hiring processes with AI for screening and sourcing candidates.  
 - **Research** - AI-driven tools to assist with academic, market, or technical research.  
 - **Sales AI Agent** - Automate sales tasks like prospecting and client follow-ups with AI. 
-- **Science Agents** - Read research papers and formulate hypotheses. 
+- **Science Agents** - Read research papers and formulate hypotheses.
+- [Secondee](https://secondee.ai) - B2B AI agent that handles agreed routine work in your existing tools.
 - **Software Testing Agent** - AI tools for testing and validating software functionality.  
 - **Tool Libraries** - Collections of tools to build, deploy, or manage AI systems.  
 - **Translation AI Agents** - Automate language translation with context-aware AI agents.  
