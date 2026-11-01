@@ -132,7 +132,7 @@ Below are some popular categories and examples of how AI agents can make an impa
 - **Customer Service** - AI agents designed to handle customer support and interactions (e.g. Sierra).
 - **Data Analysis** - Analyze and interpret data using intelligent AI agents.  
 - **Data Science** - AI-driven solutions for advanced data modeling and exploration.  
-- **Desktop AI Agents** - AI agents designed to run locally on desktop systems for various tasks.  
+- **Desktop AI Agents** - AI agents designed to run locally on desktop systems for various tasks (e.g. [Grux](https://github.com/dotcomjack/grux)).  
 - **Digital Workers** - Virtual agents that replicate human workflows in digital environments.  
 - **Education AI Agents** - Tools to enhance learning experiences through personalized education.  
 - **Email AI Agents** - Automate email organization, writing, and management with AI.  
