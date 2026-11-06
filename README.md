@@ -1429,6 +1429,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 
 ### Tools
+- [Datacircle](https://api.datacircle.dev/v1) - Find the best GTM APIs. Our API is free and open, with no key: list every API, see who is best for each and search every plan, at api.datacircle.dev/v1 (its spec: api.datacircle.dev/v1/openapi.json).
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
