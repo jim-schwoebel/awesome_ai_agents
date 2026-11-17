@@ -550,6 +550,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Nemotron-O1-Llm-Agent-Dataflow-Analysis](https://github.com/yuvrajpant56/Nemotron-o1-LLM-Agent-Dataflow-Analysis) - "Code and resources for Nemotron-o1, an LLM-based agentic framework for automated data flow analysis. Features source/sink extraction, da…
 - [Osworld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [Overcooked_Ai_Llm](https://github.com/bzeng2188/overcooked_ai_llm) - Research with LLM multi agent planning on OvercookedAI benchmark.
+- [Pace](https://github.com/mahmoudsajjadi/pace) - PACE (Parity-Aware Compute Evaluation): Toolkit and replication ledger for compute-matched multi-agent LLM evaluation ([Demo](https://huggingface.co/spaces/sajjadi/pace-studio), [arXiv:2611.17610](https://arxiv.org/abs/2611.17610)).
 - [Pharmasimtext-Os-Llms](https://github.com/epfl-ml4ed/PharmaSimText-OS-LLMs) - This is a repository including the benchmark and agents included in an under review submission to JEDM 2025.
 - [R-Judge](https://github.com/Lordog/R-Judge) - R-Judge - Benchmarking Safety Risk Awareness for LLM Agents (EMNLP Findings 2024)
 - [Safeagentbench](https://github.com/shengyin1224/SafeAgentBench) - Codes for paper "SafeAgentBench - A Benchmark for Safe Task Planning of \\ Embodied LLM Agents"
