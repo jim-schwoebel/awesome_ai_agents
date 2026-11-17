@@ -1429,7 +1429,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 
 ### Tools
-- [HumanPen](https://humanpen.net) - AI research-project workspace for scoping, credit-quoted planning, data analysis, literature organization, review, and file/code/chart delivery with optional budget-capped autonomy, A2A 1.0 & REST API (100 signup credits; commercial credit-based; prohibits ghostwriting).
+- [HumanPen](https://humanpen.net) - AI research-project workspace for scoping, proposed planning (credits charged by actual usage, including scoping; no upfront plan price), data analysis, literature organization, review, and file/code/chart delivery with optional budget-capped autonomy, A2A 1.0 & REST API (100 signup credits; commercial credit-based; prohibits ghostwriting).
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
