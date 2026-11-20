@@ -1146,6 +1146,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Tldraw-Llm-Starter](https://github.com/tldraw/tldraw-llm-starter) - A starter for working with tldraw and large language models.
 - [Tough-Llm-Tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
 - [Trained_Models](https://github.com/XY2323819551/trained_models) - fine-tuning llms.
+- [UberLLM](https://uberllm.dev) - UberLLM is a prepaid API marketplace where one OpenAI- and Anthropic-compatible key reaches 570+ text, image, video, music and speech models, with each request routed to a third-party seller at market prices; works with agent tools such as Claude Code, n8n and the OpenAI SDKs [website](https://uberllm.dev) | [docs](https://uberllm.dev/docs)
 - [Wasm-Ai](https://github.com/hrishioa/wasm-ai) - Vercel and web-llm template to run wasm models directly in the browser.
 - [Web-Llm-Chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
 - [Yet-Another-Applied-Llm-Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve.
