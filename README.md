@@ -1559,6 +1559,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Llmsmartaudittool](https://github.com/LLMAudit/LLMSmartAuditTool) - LLM-SmartAudit is a cutting-edge tool designed to revolutionize smart contract auditing using advanced language models.
 - [Llmtestforaccessibilitycheck_Chatgpt](https://github.com/AutoBugHunter/LLMTestForAccessibilityCheck_chatgpt) - Checking multiple LLM tools to generate code for a webpage and then prompting the tools to fix the accessibility issues in the webpage
 - [Localagent](https://github.com/PrAsAnNaRePo/LocalAgent) - opengpt is a open implementation of GPT agents.
+- [Loom](https://github.com/ClickHouse/loom) - Self-hosted shared memory for AI agents, with namespace-scoped retrieval and Python, TypeScript, HTTP, and MCP interfaces.
 - [Macllm](https://github.com/appenz/macLLM) - Tool to integrate LLM's like GPT-3 with macOS
 - [Markdown_Llm](https://github.com/matweldon/markdown_llm) - A tool for interacting with an LLM in a markdown document
 - [Mastermind](https://github.com/theoforger/mastermind) - An LLM-powered CLI tool to help you be a better spymaster in Codenames
