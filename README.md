@@ -1489,6 +1489,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Conversational-Agent-With-Qa-Tool](https://github.com/CharlesSQ/conversational-agent-with-QA-tool) - A custom chat agent implemented using Langchain, gpt-3.5 and Pinecone. Implements memory management for context, a custom prompt template…
 - [Cuesubplot](https://github.com/kleer001/cuesubplot) - procedural ai prompts and results
 - [Curategpt](https://github.com/monarch-initiative/curategpt) - LLM-driven curation assist tool
+- [Dooza Browser](https://github.com/Dooza-ai/dooza-browser) - Shared, logged-in Chrome MCP and HTTP server for AI agents with tab tools, Playwright scripts, and per-site memory. [github](https://github.com/Dooza-ai/dooza-browser) | [website](https://www.dooza.ai)
 - [Dbt-Llm-Tools](https://github.com/pragunbhutani/dbt-llm-tools) - RAG based LLM chatbot for dbt projects
 - [Demogpt](https://github.com/melih-unsal/DemoGPT) - 🤖 Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place.
 - [Androidmeda](https://github.com/In3tinct/deobfuscate-android-app) - AI tool to deobfuscate and find any potential vulnerabilities in android apps.
