@@ -1117,6 +1117,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Machine-Learning-Guide](https://github.com/mikeroyal/Machine-Learning-Guide) - Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frameworks, Large Language Models (LLMs), and Training Models.
 - [Malayallm](https://github.com/VishnuPJ/MalayaLLM) - A Continually LoRA PreTrained and FineTuned 7B Llama-2 Indic model for Malayalam Language.
 - [Mammoth](https://github.com/TIGER-AI-Lab/MAmmoTH) - Code and data for "MAmmoTH - Building Math Generalist Models through Hybrid Instruction Tuning" (ICLR 2024)
+- [MartLLM](https://martllm.com) - MartLLM (formerly UberLLM) is a prepaid API marketplace where one OpenAI- and Anthropic-compatible key reaches text, image, video, music and speech models, with each request routed to a third-party seller; works with agent tools such as Claude Code, n8n and the OpenAI SDKs [website](https://martllm.com) | [docs](https://martllm.com/docs)
 - [Mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 - [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps.
 - [Mlx-Llm](https://github.com/riccardomusmeci/mlx-llm) - Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
